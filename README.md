@@ -43,7 +43,7 @@
           <li>Domain: Computer Vision</li>
           <li>Detail: </li>
           <ul>
-            <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN
+            <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN
             <li>Language: Python</li>
             <li>Framework: Numpy, Pandas, Matplotlib, PyTorch, MMDetection, FastAPI</li>
             <li>Tools: VSCode</li>
@@ -56,7 +56,7 @@
         <ul>
           <li>Term: 2022.03.07 - 2023.11.01 </li>
           <li>Organizer: Innovation Academy</li>
-          <li>Domain: Computer Science</li>
+          <li>Domain: Computer Science</li>
           <li>Detail: </li>
           <ul>
             <li>Basic: Programming Language, Algorithm, Network, Operating System, Graphics, Linux Command, Git, Docker
@@ -183,24 +183,23 @@
     <h2>Projects</h2>
     <div>
       <details>
-        <summary>projectName: 0000.00-0000.00</summary>
+        <summary>projectName: 2025.02-2025.02</summary>
         <ul>
-          <li>: 0000.00.00 - 0000.00.00 (00일)</li>
-          <li>Domain: </li>
-          <li>Member: 00</li>
+          <li>Term: 2025.02.03 - 2025.02.28</li>
+          <li>Domain: Algorithm</li>
+          <li>Member: 01</li>
           <li>Role: </li>
           <ol type="1">
-            <li>...</li>
+            <li>Summary Algorithm</li>
+            <li>Summary Algorithm</li>
           </ol>
           <li>Environment</li>
           <ul>
-            <li>Language: HTML5, CSS3, JavaScript</li>
-            <li>Framework: NodeJS, ExpressJS</li>
-            <li>Tools: VSCode</li>
-            <li>Server: AWS EC2</li>
-            <li>DataBase: MySQL</li>
+            <li>Language: Java</li>
+            <li>Tools: IntelliJ, Tistory(Blog)</li>
+            <li>Platform: Programmers, Softeer</li>
           </ul>
-          <li>[GitHub] projectLink</li>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/PCCP%28Java%29">cogito30's Java Develope Blog</a></li>
         </ul>
       </details>
 <!--       <details>
