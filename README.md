@@ -232,8 +232,8 @@
     <article>
     <h2>GitHub Stats</h2>
     <div style="display: flex; height:180px;">
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito30&show_icons=true&theme=transparent" alt="cogito30's github stats" />
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito30&layout=compact&theme=nord&hide_border=true" alt="cogito30's github stats" />
     </div>
   </article>
 </footer>
