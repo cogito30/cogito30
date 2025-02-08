@@ -128,8 +128,11 @@
       <h4>Summary</h4>
       <ul>
         <li>PCCP: Python(Lv3)</li>
-        <li>SQLD / 리눅스마스터 2급/ 정보처리기사</li>
-        <li>ADsP / 빅데이터분석기사</li>
+        <li>SQLD</li>
+        <li>리눅스마스터 2급</li>
+        <li>정보처리기사</li>
+        <li>ADsP</li>
+        <li>빅데이터분석기사</li>
         <li>TOEIC Speaking(IH)</li>
       </ul>
     </div>
@@ -137,7 +140,7 @@
       <details>
         <summary>Language</summary>
           <ul>
-            <li>TOEIC Spearking: IH(2024.07.28)</li>
+            <li>TOEIC Spearking(IH): 140점(2024.07.28)</li>
           </ul>
         </details>
     </div>
@@ -146,7 +149,7 @@
         <summary>Programming</summary>
         <ul>
           <li>SW 코딩자격 1급(2021.06.11)</li>
-          <li>PCCP_Python: Lv3_658점 (2024.11.09)</li>
+          <li>PCCP_Python(Lv3): 658점(2024.11.09)</li>
           <li>리눅스마스터 2급: 1차(2023.05.02) / 2차(2025.01.03)</li>
           <li>SQLD(2022.09.30)</li>
           <li>ADsP(2024.11.29)</li>
@@ -159,8 +162,8 @@
       <details>
         <summary>OA</summary>
         <ul>
-          <li>ITQ: PowerPoint B등급(2024.12.12)</li>
-          <li>ITQ: Excel B등급(2024.12.12)</li>
+          <li>ITQ_PowerPoint(B등급): 360점(2024.12.12)</li>
+          <li>ITQ_Excel(B등급): 355점(2024.12.12)</li>
         </ul>
       </details>
     </div>
@@ -174,6 +177,7 @@
         <ul>
           <li>2025.01: </li>
           <li>2025.02: Java Algorithm</li>
+          <li>2025.03: Frontend Develope</li>
         </ul>
       </details>
     </div>
@@ -183,6 +187,31 @@
     <h2>Projects</h2>
     <div>
       <details>
+        <summary>projectName: 2025.03-2025.04</summary>
+        <ul>
+          <li>Term: 2025.03.01 - 2025.04.27</li>
+          <li>Domain: Frontend</li>
+          <li>Member: 01</li>
+          <li>Role: </li>
+          <ol type="1">
+            <li>Set Rules(Coding Convention, Project Structure, Git Commit Message, Git Branch, Processing)</li>
+            <li>Write Project Proposal</li>
+            <li>UI Design with Figma</li>
+            <li>Implement UI Design with HTML5, CSS3</li>
+            <li>Implement Web Site with HTML5, CSS3, JavaScript</li>
+            <li>Service Blog Web Site with GitPages</li>
+          </ol>
+          <li>Environment</li>
+          <ul>
+            <li>Language: HTML5, CSS3, JavaScript, Markdown</li>
+            <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
+            <li>Platform: GitHub</li>
+          </ul>
+          <li>[GitHub] <a href="https://github.com/cogito30/cogito30.github.io/deployments/github-pages">cogito30's Blog</a></li>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/PCCP%28Java%29">Record the Process</a></li>
+        </ul>
+      </details>
+      <details>
         <summary>projectName: 2025.02-2025.02</summary>
         <ul>
           <li>Term: 2025.02.03 - 2025.02.28</li>
@@ -191,7 +220,8 @@
           <li>Role: </li>
           <ol type="1">
             <li>Summary Algorithm</li>
-            <li>Summary Algorithm</li>
+            <li>Solve Softeer(Lv1-Lv3) Problems</li>
+            <li>Solve PCCP(Lv1) Problems</li>
           </ol>
           <li>Environment</li>
           <ul>
@@ -199,7 +229,8 @@
             <li>Tools: IntelliJ, Tistory(Blog)</li>
             <li>Platform: Programmers, Softeer</li>
           </ul>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/PCCP%28Java%29">cogito30's Java Develope Blog</a></li>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
         </ul>
       </details>
 <!--       <details>
