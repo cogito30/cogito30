@@ -208,8 +208,8 @@
             <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
             <li>Platform: GitHub</li>
           </ul>
-          <li>[GitHub] <a href="https://github.com/cogito30/cogito30.github.io/deployments/github-pages">cogito30's Blog</a></li>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/PCCP%28Java%29">Record the Process</a></li>
+          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
+          <li>[Tistory] <a href="#">Record the Process</a></li>
         </ul>
       </details>
       <details>
