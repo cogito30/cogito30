@@ -24,7 +24,7 @@
     <div>
       <h4>Seoul National University of Science and Technology: 2013.03-2020.02</h4>
       <ul>
-        <li>Term: 2013.03. - 2020.02.21</li>
+        <li>Term: 2013.03.04 - 2020.02.21</li>
         <li>Major: Electrical and Information Engineering</li>
         <li>GPA: 3.63/4.5</li>
         <li>Project: 양방향 뇌신경 신호처리 시스템</li>
@@ -43,7 +43,7 @@
           <li>Domain: Computer Vision</li>
           <li>Detail: </li>
           <ul>
-            <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN
+            <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN </li>
             <li>Language: Python</li>
             <li>Framework: Numpy, Pandas, Matplotlib, PyTorch, MMDetection, FastAPI</li>
             <li>Tools: VSCode</li>
