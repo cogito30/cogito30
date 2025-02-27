@@ -106,7 +106,7 @@
         </ul>
       </details>
       <details>
-        <summary>projectName: 2025.02-2025.02</summary>
+        <summary>Algorithm: 2025.02-2025.02</summary>
         <ul>
           <li>Term: 2025.02.03 - 2025.02.28</li>
           <li>Domain: Algorithm</li>
