@@ -10,11 +10,11 @@
   
 </header>
 
-<nav align="center">
-  <p>
+<nav>
+  <div align="center">
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
     <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#certificate">Certificate</a> | <a href="#life cycle">Life Cycle</a>
-  </p>
+  </div>
 </nav>
 
 <main>
