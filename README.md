@@ -69,6 +69,82 @@
     </div>
   </article>
   
+  <article id="projects">
+    <h2>Projects</h2>
+    <div>
+      <details>
+        <summary>projectName: 2025.03-2025.04</summary>
+        <ul>
+          <li>Term: 2025.03.01 - 2025.04.27</li>
+          <li>Domain: Frontend</li>
+          <li>Member: 01</li>
+          <li>Role: </li>
+          <ol type="1">
+            <li>Set Rules(Coding Convention, Project Structure, Git Commit Message, Git Branch, Processing)</li>
+            <li>Write Project Proposal</li>
+            <li>UI Design with Figma</li>
+            <li>Implement UI Design with HTML5, CSS3</li>
+            <li>Implement Web Site with HTML5, CSS3, JavaScript</li>
+            <li>Service Blog Web Site with GitPages</li>
+          </ol>
+          <li>Environment</li>
+          <ul>
+            <li>Language: HTML5, CSS3, JavaScript, Markdown</li>
+            <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
+            <li>Platform: GitHub</li>
+          </ul>
+          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
+          <li>[Tistory] <a href="#">Record the Process</a></li>
+        </ul>
+      </details>
+      <details>
+        <summary>projectName: 2025.02-2025.02</summary>
+        <ul>
+          <li>Term: 2025.02.03 - 2025.02.28</li>
+          <li>Domain: Algorithm</li>
+          <li>Member: 01</li>
+          <li>Role: </li>
+          <ol type="1">
+            <li>Summary Algorithm</li>
+            <li>Solve Softeer(Lv1-Lv3) Problems</li>
+            <li>Solve PCCP(Lv1) Problems</li>
+          </ol>
+          <li>Environment</li>
+          <ul>
+            <li>Language: Java</li>
+            <li>Tools: IntelliJ, Tistory(Blog)</li>
+            <li>Platform: Programmers, Softeer</li>
+          </ul>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
+          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
+        </ul>
+      </details>
+<!--       <details>
+        <summary>projectName: 0000.00-0000.00</summary>
+        <ul>
+          <li>: 2024.02 - 2024.04 (60일)</li>
+          <li>Domain: </li>
+          <li>Member: 6인</li>
+          <li>Role: </li>
+          <ol type="1">
+            <li>...</li>
+          </ol>
+          <li>Environment</li>
+          <ul>
+            <li>Language: HTML5, CSS3, JavaScript</li>
+            <li>Framework: NodeJS, ExpressJS</li>
+            <li>Tools: VSCode</li>
+            <li>Server: AWS EC2</li>
+            <li>DataBase: MySQL</li>
+          </ul>
+          <li>[GitHub] projectLink</li>
+        </ul>
+      </details> -->
+    </div>
+  </article>
+
+
+  
   <article id="skills">
     <h2>Languages and Tools</h2> 
 <!--     <div>
@@ -181,80 +257,6 @@
           <li>2025.03: Frontend Develope</li>
         </ul>
       </details>
-    </div>
-  </article>
-
-  <article id="projects">
-    <h2>Projects</h2>
-    <div>
-      <details>
-        <summary>projectName: 2025.03-2025.04</summary>
-        <ul>
-          <li>Term: 2025.03.01 - 2025.04.27</li>
-          <li>Domain: Frontend</li>
-          <li>Member: 01</li>
-          <li>Role: </li>
-          <ol type="1">
-            <li>Set Rules(Coding Convention, Project Structure, Git Commit Message, Git Branch, Processing)</li>
-            <li>Write Project Proposal</li>
-            <li>UI Design with Figma</li>
-            <li>Implement UI Design with HTML5, CSS3</li>
-            <li>Implement Web Site with HTML5, CSS3, JavaScript</li>
-            <li>Service Blog Web Site with GitPages</li>
-          </ol>
-          <li>Environment</li>
-          <ul>
-            <li>Language: HTML5, CSS3, JavaScript, Markdown</li>
-            <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
-            <li>Platform: GitHub</li>
-          </ul>
-          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
-          <li>[Tistory] <a href="#">Record the Process</a></li>
-        </ul>
-      </details>
-      <details>
-        <summary>projectName: 2025.02-2025.02</summary>
-        <ul>
-          <li>Term: 2025.02.03 - 2025.02.28</li>
-          <li>Domain: Algorithm</li>
-          <li>Member: 01</li>
-          <li>Role: </li>
-          <ol type="1">
-            <li>Summary Algorithm</li>
-            <li>Solve Softeer(Lv1-Lv3) Problems</li>
-            <li>Solve PCCP(Lv1) Problems</li>
-          </ol>
-          <li>Environment</li>
-          <ul>
-            <li>Language: Java</li>
-            <li>Tools: IntelliJ, Tistory(Blog)</li>
-            <li>Platform: Programmers, Softeer</li>
-          </ul>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
-        </ul>
-      </details>
-<!--       <details>
-        <summary>projectName: 0000.00-0000.00</summary>
-        <ul>
-          <li>: 2024.02 - 2024.04 (60일)</li>
-          <li>Domain: </li>
-          <li>Member: 6인</li>
-          <li>Role: </li>
-          <ol type="1">
-            <li>...</li>
-          </ol>
-          <li>Environment</li>
-          <ul>
-            <li>Language: HTML5, CSS3, JavaScript</li>
-            <li>Framework: NodeJS, ExpressJS</li>
-            <li>Tools: VSCode</li>
-            <li>Server: AWS EC2</li>
-            <li>DataBase: MySQL</li>
-          </ul>
-          <li>[GitHub] projectLink</li>
-        </ul>
-      </details> -->
     </div>
   </article>
   
