@@ -8,9 +8,6 @@
   <a href="https://psychologyforpeople.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF4500?logo=tistory&link=https%3A%2F%2Fpsychologyforpeople.tistory.com%2F"></a>
   <a href="https://www.youtube.com/@cogito30"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-%23FF0000?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40cogito30"></a>
   </div>
-
-
-  
 </header>
 
 <nav>
@@ -78,7 +75,7 @@
         </ul>
       </details>
       <details>
-        <summary>La Piscine: 2022.01-2022.02.25</summary>
+        <summary>La Piscine: 2022.01-2022.02</summary>
         <ul>
           <li>Term:2022.01.31-2022.02.25</li>
           <li>Organizer: Innovation Academy</li>
@@ -93,6 +90,26 @@
       </details>
     </div>
   </article>
+
+  <article id="experience">
+    <h2>Experience</h2>
+    <div>
+      <details>
+        <summary>삼진엘앤디: 2019.06-2019.10</summary>
+        <ul>
+          <li>Term: 2019.06.24-2019.10.23</li>
+          <li>Domain: AI(Computer Vision)</li>
+          <ii>Detail</ii>
+          <ul>
+            <li>TV 패널 불량 데이터 제작</li>
+            <li>AI Model Test on Nvidia Jetson Xavier</li>
+          </ul>
+        </ul>
+        <li>[Project]: ...</li>
+      </details>
+    </div>
+    
+  </article>
   
   <article id="projects">
     <h2>Projects</h2>
@@ -103,7 +120,7 @@
           <li>Term: 2025.03.01 - 2025.04.27</li>
           <li>Domain: Frontend</li>
           <li>Member: 01</li>
-          <li>Role: </li>
+          <li>Detail</li>
           <ol type="1">
             <li>Set Rules(Coding Convention, Project Structure, Git Commit Message, Git Branch, Processing)</li>
             <li>Write Project Proposal</li>
@@ -128,7 +145,7 @@
           <li>Term: 2025.02.03 - 2025.02.28</li>
           <li>Domain: Algorithm</li>
           <li>Member: 01</li>
-          <li>Role: </li>
+          <li>Detail</li>
           <ol type="1">
             <li>Summary Algorithm</li>
             <li>Solve Softeer(Lv1-Lv3) Problems</li>
