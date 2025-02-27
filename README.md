@@ -35,7 +35,7 @@
     <div>
       <h4>Seoul National University of Science and Technology: 2013.03-2020.02</h4>
       <ul>
-        <li>Term: 2013.03.04 - 2020.02.21</li>
+        <li>Term: 2013.03.04-2020.02.21</li>
         <li>Major: Electrical and Information Engineering</li>
         <li>GPA: 3.63/4.5</li>
         <li>Project: 양방향 뇌신경 신호처리 시스템</li>
@@ -47,9 +47,9 @@
     <h2>External Education</h2>
     <div>
       <details>
-        <summary>Boostcamp AI Tech: 2023.11 - 2024.04</summary>
+        <summary>Boostcamp AI Tech: 2023.11-2024.04</summary>
         <ul>
-          <li>Term: 2023.11.06 - 2024.04.02 </li>
+          <li>Term: 2023.11.06-2024.04.02</li>
           <li>Organizer: Naver Connect</li>
           <li>Domain: Computer Vision</li>
           <li>Detail: </li>
@@ -63,18 +63,32 @@
         </ul>
       </details>
       <details>
-        <summary>42Seoul: 2022.03 - 2023.11</summary>
+        <summary>42Seoul: 2022.03-2023.11</summary>
         <ul>
-          <li>Term: 2022.03.07 - 2023.11.01 </li>
+          <li>Term: 2022.03.07-2023.11.01</li>
           <li>Organizer: Innovation Academy</li>
           <li>Domain: Computer Science</li>
-          <li>Detail: </li>
+          <li>Detail</li>
           <ul>
             <li>Basic: Programming Language, Algorithm, Network, Operating System, Graphics, Linux Command, Git, Docker
             <li>Language: C, C++</li>
             <li>Tools: Vim, GCC, Make, CMake, Git</li>
           </ul>
           <li>[Project] ...</li>
+        </ul>
+      </details>
+      <details>
+        <summary>La Piscine: 2022.01-2022.02.25</summary>
+        <ul>
+          <li>Term:2022.01.31-2022.02.25</li>
+          <li>Organizer: Innovation Academy</li>
+          <li>Domain: Computer Science</li>
+          <li>Detail</li>
+          <ul>
+            <li>git command, linux command</li>
+            <li>make, gcc, c language</li>
+          </ul>
+          <li>[Project]: ...</li>
         </ul>
       </details>
     </div>
