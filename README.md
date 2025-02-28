@@ -147,7 +147,9 @@
           <li>Member: 01</li>
           <li>Detail</li>
           <ul>
-            <li></li>
+            <li>UI Design with HTML, CSS</li>
+            <li>Page Link with JS</li>
+            <li>Markdown Parsing</li>
           </ul>
           <li>Skill</li>
           <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
