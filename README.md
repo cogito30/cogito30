@@ -47,12 +47,26 @@
     <h2>External Education</h2>
     <div>
       <details>
+        <summary>DreamHack(2025.02-)</summary>
+        <ul>
+          <li>Term: 2025.02.22- </li>
+          <li>Organizer: Theori Korea</li>
+          <li>Domain: Security</li>
+          <li>Detail</li>
+          <ul>
+            <li>Dream Beginners</li>
+            <li>Web Hacking</li>
+          </ul>
+          <li>[Website] <a href="https://dreamhack.io/">DreamHack</a></li>
+        </ul>
+      </details>
+      <details>
         <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
         <ul>
           <li>Term: 2023.11.06-2024.04.02</li>
           <li>Organizer: Naver Connect</li>
           <li>Domain: Computer Vision</li>
-          <li>Detail: </li>
+          <li>Detail </li>
           <ul>
             <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN </li>
             <li>Language: Python</li>
