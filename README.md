@@ -47,7 +47,7 @@
     <h2>External Education</h2>
     <div>
       <details>
-        <summary>Boostcamp AI Tech: 2023.11-2024.04</summary>
+        <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
         <ul>
           <li>Term: 2023.11.06-2024.04.02</li>
           <li>Organizer: Naver Connect</li>
@@ -63,7 +63,7 @@
         </ul>
       </details>
       <details>
-        <summary>42Seoul: 2022.03-2023.11</summary>
+        <summary>42Seoul(2022.03-2023.11)</summary>
         <ul>
           <li>Term: 2022.03.07-2023.11.01</li>
           <li>Organizer: Innovation Academy</li>
@@ -78,7 +78,7 @@
         </ul>
       </details>
       <details>
-        <summary>La Piscine: 2022.01-2022.02</summary>
+        <summary>La Piscine(2022.01-2022.02)</summary>
         <ul>
           <li>Term:2022.01.31-2022.02.25</li>
           <li>Organizer: Innovation Academy</li>
@@ -98,7 +98,7 @@
     <h2>Experience</h2>
     <div>
       <details>
-        <summary>삼진엘앤디: 2019.06-2019.10</summary>
+        <summary>삼진엘앤디(2019.06-2019.10)</summary>
         <ul>
           <li>Term: 2019.06.24-2019.10.23</li>
           <li>Domain: AI(Computer Vision)</li>
@@ -142,7 +142,7 @@
         </ul>
       </details> -->
       <details>
-        <summary>Cogito30's Blog: 2025.02-2025.03</summary>
+        <summary>Cogito30's Blog(2025.02-2025.03)</summary>
         <ul>
           <li>Term: 2025.02.27-2025.03. </li>
           <li>Domain: Frontend</li>
@@ -163,7 +163,7 @@
         </ul>
       </details>
       <details>
-        <summary>Coding Test: 2025.02-2025.02</summary>
+        <summary>Coding Test(2025.02-2025.02)</summary>
         <ul>
           <li>Term: 2025.02.03 - 2025.02.28</li>
           <li>Domain: Algorithm</li>
