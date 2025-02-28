@@ -242,13 +242,13 @@
     <div>
       <h4>Summary</h4>
       <ul>
-        <li>리눅스마스터 2급</li>
-        <li>빅데이터분석기사</li>
-        <li>정보처리기사</li>
-        <li>ADsP</li>
-        <li>PCCP: Python(Lv3)</li>
-        <li>TOEIC Speaking(IH)</li>
-        <li>SQLD</li>
+        <li>리눅스마스터 2급(2025.01.03)</li>
+        <li>빅데이터분석기사(2024.12.20)</li>
+        <li>정보처리기사(2024.12.11)</li>
+        <li>ADsP(2024.11.29)</li>
+        <li>PCCP(Python): Lv3(2024.11.09)</li>
+        <li>TOEIC Speaking:IH(2024.07.28)</li>
+        <li>SQLD(2022.09.30)</li>
       </ul>
     </div>
     <div>
