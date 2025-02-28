@@ -114,8 +114,8 @@
   
   <article id="projects">
     <h2>Projects</h2>
-<!--     <div>
-      <details>
+    <div>
+<!--       <details>
         <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
         <ul>
           <li>Term: 2025.03.01 - 2025.04.27</li>
@@ -140,7 +140,7 @@
         </ul>
       </details> -->
       <details>
-        <summary>Personal Blog: 2025.02-2025.03</summary>
+        <summary>Cogito30's Blog: 2025.02-2025.03</summary>
         <ul>
           <li>Term: 2025.02.27-2025.03. </li>
           <li>Domain: Frontend</li>
@@ -176,27 +176,6 @@
           <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
         </ul>
       </details>
-<!--       <details>
-        <summary>projectName: 0000.00-0000.00</summary>
-        <ul>
-          <li>: 2024.02 - 2024.04 (60일)</li>
-          <li>Domain: </li>
-          <li>Member: 6인</li>
-          <li>Role: </li>
-          <ol type="1">
-            <li>...</li>
-          </ol>
-          <li>Environment</li>
-          <ul>
-            <li>Language: HTML5, CSS3, JavaScript</li>
-            <li>Framework: NodeJS, ExpressJS</li>
-            <li>Tools: VSCode</li>
-            <li>Server: AWS EC2</li>
-            <li>DataBase: MySQL</li>
-          </ul>
-          <li>[GitHub] projectLink</li>
-        </ul>
-      </details> -->
     </div>
   </article>
 
