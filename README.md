@@ -135,7 +135,15 @@
           <li>Skill</li>
           <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
           <img alt="powerpoint" src="https://img.shields.io/badge/powerpoint-%23FF7F50?style=flat-square">
+          <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
+      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
+      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+          <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
+          <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
+      <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
           <li>[Project] <a href="https://github.com/cogito30/web_product_manage">Proposal Result</a></li>
+          <li>[Project] <a href="#">Yggdrasil(Education)</a></li>
         </ul>
       </details>
       <details>
