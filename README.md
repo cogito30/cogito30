@@ -32,7 +32,7 @@
     <h2>Education</h2>
     <div>
       <details>
-        <summary>Seoul National University of Science and Technology: 2013.03-2020.02</summary>
+        <summary>Seoul National University of Science and Technology(2013.03-2020.02)</summary>
         <ul>
           <li>Term: 2013.03.04-2020.02.21</li>
           <li>Major: Electrical and Information Engineering</li>
