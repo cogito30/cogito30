@@ -242,13 +242,13 @@
     <div>
       <h4>Summary</h4>
       <ul>
-        <li>PCCP: Python(Lv3)</li>
-        <li>SQLD</li>
         <li>리눅스마스터 2급</li>
+        <li>빅데이터분석기사</li>
         <li>정보처리기사</li>
         <li>ADsP</li>
-        <li>빅데이터분석기사</li>
+        <li>PCCP: Python(Lv3)</li>
         <li>TOEIC Speaking(IH)</li>
+        <li>SQLD</li>
       </ul>
     </div>
     <div>
@@ -263,13 +263,14 @@
       <details>
         <summary>Programming</summary>
         <ul>
-          <li>SW 코딩자격 1급(2021.06.11)</li>
-          <li>PCCP_Python(Lv3): 658점(2024.11.09)</li>
-          <li>리눅스마스터 2급: 1차(2023.05.02) / 2차(2025.01.03)</li>
-          <li>SQLD(2022.09.30)</li>
-          <li>ADsP(2024.11.29)</li>
-          <li>정보처리기사: 필기(2024.08.07) / 실기(2024.12.11)</li>
+          <li>네트워크관리사(2급): 필기(2025.02.25) / 실기()</li>
+          <li>리눅스마스터(2급): 1차(2023.05.02) / 2차(2025.01.03)</li>
           <li>빅데이터분석기사: 필기(2024.09.27) / 실기(2024.12.20)</li>
+          <li>정보처리기사: 필기(2024.08.07) / 실기(2024.12.11)</li>
+          <li>ADsP(2024.11.29)</li>
+          <li>PCCP_Python(Lv3): 658점(2024.11.09)</li>
+          <li>SQLD(2022.09.30)</li>
+          <li>SW 코딩자격 1급(2021.06.11)</li>
         </ul>
       </details>
     </div>
