@@ -135,7 +135,6 @@
           <li>Skill</li>
           <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
           <img alt="powerpoint" src="https://img.shields.io/badge/powerpoint-%23FF7F50?style=flat-square">
-
           <li>[Project] <a href="https://github.com/cogito30/web_product_manage">Proposal Result</a></li>
         </ul>
       </details>
