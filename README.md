@@ -31,13 +31,15 @@
   <article id="education">
     <h2>Education</h2>
     <div>
-      <h4>Seoul National University of Science and Technology: 2013.03-2020.02</h4>
-      <ul>
-        <li>Term: 2013.03.04-2020.02.21</li>
-        <li>Major: Electrical and Information Engineering</li>
-        <li>GPA: 3.63/4.5</li>
-        <li>Project: 양방향 뇌신경 신호처리 시스템</li>
-      </ul>
+      <details>
+        <summary>Seoul National University of Science and Technology: 2013.03-2020.02</summary>
+        <ul>
+          <li>Term: 2013.03.04-2020.02.21</li>
+          <li>Major: Electrical and Information Engineering</li>
+          <li>GPA: 3.63/4.5</li>
+          <li>Project: 양방향 뇌신경 신호처리 시스템</li>
+        </ul>
+      </details>
     </div>
   </article>
   
