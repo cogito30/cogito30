@@ -121,7 +121,7 @@
         <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
         <ul>
           <li>Term: 2025.03.01 - 2025.04.27</li>
-          <li>Domain: Frontend</li>
+          <li>Domain: Frontend/Backend</li>
           <li>Member: 01</li>
           <li>Detail</li>
           <ol type="1">
