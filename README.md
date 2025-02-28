@@ -161,25 +161,19 @@
         </ul>
       </details>
       <details>
-        <summary>Algorithm: 2025.02-2025.02</summary>
+        <summary>Coding Test: 2025.02-2025.02</summary>
         <ul>
           <li>Term: 2025.02.03 - 2025.02.28</li>
           <li>Domain: Algorithm</li>
           <li>Member: 01</li>
           <li>Detail</li>
-          <ol type="1">
-            <li>Summary Algorithm</li>
-            <li>Solve Softeer(Lv1-Lv3) Problems</li>
-            <li>Solve PCCP(Lv1) Problems</li>
-          </ol>
-          <li>Environment</li>
           <ul>
-            <li>Language: Java</li>
-            <li>Tools: IntelliJ, Tistory(Blog)</li>
-            <li>Platform: Programmers, Softeer</li>
+            <li>Summary Algorithm</li>
+            <li>Solve Softeer(Lv1) Problems with Java</li>
+            <li>Solve Programmers(Lv1) Problems with Java</li>
           </ul>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
-          <li>[Tistory] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
+          <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
+          <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
         </ul>
       </details>
 <!--       <details>
