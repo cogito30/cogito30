@@ -116,7 +116,7 @@
     <h2>Projects</h2>
     <div>
       <details>
-        <summary>projectName: 2025.03-2025.04</summary>
+        <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
         <ul>
           <li>Term: 2025.03.01 - 2025.04.27</li>
           <li>Domain: Frontend</li>
