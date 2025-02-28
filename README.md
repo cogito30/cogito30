@@ -114,7 +114,7 @@
   
   <article id="projects">
     <h2>Projects</h2>
-    <div>
+<!--     <div>
       <details>
         <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
         <ul>
@@ -136,8 +136,25 @@
             <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
             <li>Platform: GitHub</li>
           </ul>
-          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
           <li>[Tistory] <a href="#">Record the Process</a></li>
+        </ul>
+      </details> -->
+      <details>
+        <summary>Personal Blog: 2025.02-2025.03</summary>
+        <ul>
+          <li>Term: 2025.02.27-2025.03. </li>
+          <li>Domain: Frontend</li>
+          <li>Member: 01</li>
+          <li>Detail</li>
+          <ul>
+            <li></li>
+          </ul>
+          <li>Skill</li>
+          <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
+      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
+      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+          <li></li>
+          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
         </ul>
       </details>
       <details>
