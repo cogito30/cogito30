@@ -117,7 +117,7 @@
   <article id="projects">
     <h2>Projects</h2>
     <div>
-<!--       <details>
+      <details>
         <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
         <ul>
           <li>Term: 2025.03.01 - 2025.04.27</li>
@@ -132,15 +132,13 @@
             <li>Implement Web Site with HTML5, CSS3, JavaScript</li>
             <li>Service Blog Web Site with GitPages</li>
           </ol>
-          <li>Environment</li>
-          <ul>
-            <li>Language: HTML5, CSS3, JavaScript, Markdown</li>
-            <li>Tools: Figma, VSCode, Git, Chrome Browser, Tistory(Blog)</li>
-            <li>Platform: GitHub</li>
-          </ul>
-          <li>[Tistory] <a href="#">Record the Process</a></li>
+          <li>Skill</li>
+          <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
+          <img alt="powerpoint" src="https://img.shields.io/badge/powerpoint-%23FF7F50?style=flat-square">
+
+          <li>[Project] <a href="https://github.com/cogito30/web_product_manage">Proposal Result</a></li>
         </ul>
-      </details> -->
+      </details>
       <details>
         <summary>Cogito30's Blog(2025.02-2025.03)</summary>
         <ul>
