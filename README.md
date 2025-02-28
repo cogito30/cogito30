@@ -153,7 +153,8 @@
           <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <li></li>
+          <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
+          <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
           <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
         </ul>
       </details>
@@ -249,7 +250,7 @@
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
       <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
-      <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
+      <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
     </div>
     <div>
       <h4>OS</h4>
