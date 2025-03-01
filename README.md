@@ -2,13 +2,14 @@
   <h1 align="center">cogito30</h1>
   <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcogito30&count_bg=%23DEA411&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
-  <a href="https://cogito30.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-%236ccad0">
-</a>
+  <a href="https://cogito30.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-%236ccad0"></a>
   <a href="https://github.com/cogito30?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-gray?logo=github"></a>
   <a href="https://psychologyforpeople.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF4500?logo=tistory&link=https%3A%2F%2Fpsychologyforpeople.tistory.com%2F"></a>
   <a href="https://www.youtube.com/@cogito30"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-%23FF0000?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40cogito30"></a>
   </div>
 </header>
+
+<br />
 
 <nav>
   <div align="center">
