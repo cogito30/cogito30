@@ -205,19 +205,19 @@
   
   <article id="skills">
     <h2>Languages and Tools</h2> 
-<!--     <div>
+    <div>
       <h4>C/C++</h4>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
       <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
-    </div> -->
+    </div>
     <div>
       <h4>Java</h4>
       <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
       <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
       <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
     </div>
-<!--     <div>
+    <div>
       <h4>Python</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -226,7 +226,7 @@
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </div> -->
+    </div>
     <div>
       <h4>JavaScript</h4>
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
