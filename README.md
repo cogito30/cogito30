@@ -24,7 +24,7 @@
     <div>
       <p>Welcome to cogito30!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
-      <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Data Analysis</code>.</p>
+      <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Data Analysis</code>, <code>AI</code>.</p>
       <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>, <code>Smart Factory</code></p>
   </article>
 
