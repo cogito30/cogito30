@@ -25,7 +25,7 @@
       <p>Welcome to cogito30!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Data Analysis</code>, <code>AI</code>.</p>
-      <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>, <code>Smart Factory</code></p>
+      <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>.</p>
   </article>
 
   <article id="education">
@@ -132,9 +132,9 @@
     <h2>Projects</h2>
     <div>
       <details>
-        <summary>Yggdrasil(Education): 2025.03-2025.04</summary>
+        <summary>Yggdrasil(Education): 2025.03-...</summary>
         <ul>
-          <li>Term: 2025.03.01 - 2025.04.27</li>
+          <li>Term: 2025.03.01 - ...</li>
           <li>Domain: Frontend/Backend</li>
           <li>Member: 01</li>
           <li>Detail</li>
@@ -163,7 +163,7 @@
       <details>
         <summary>Cogito30's Blog(2025.02-2025.03)</summary>
         <ul>
-          <li>Term: 2025.02.27-2025.03. </li>
+          <li>Term: 2025.02.27-2025.03.03</li>
           <li>Domain: Frontend</li>
           <li>Member: 01</li>
           <li>Detail</li>
@@ -314,6 +314,7 @@
           <li>2025.01: </li>
           <li>2025.02: Java Algorithm</li>
           <li>2025.03: Frontend Develope</li>
+          <li>2025.04: </li>
         </ul>
       </details>
     </div>
