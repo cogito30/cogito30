@@ -73,7 +73,12 @@
             <li><a href="https://nodejs.org/ko">NodeJS</a></li>
             <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
           </ul>
-          <li>[Projects] <a href="#">FrontEnd Results</a></li>
+          <li>Projects</li>
+          <ul>
+            <li>[Project] <a href="https://cogito30.github.io/">Git Blog</a></li>
+            <li>[Project] <a href="https://github.com/cogito30/practice_react">Practice React</a></li>
+            <li>[Project] <a href="https://github.com/cogito30/practice_js">Practice JavaScript</a></li>
+          </ul>
         </ul>
       </details>
       <details>
