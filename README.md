@@ -61,6 +61,22 @@
         </ul>
       </details>
       <details>
+        <summary>FrontEnd(2025.03-)</summary>
+        <ul>
+          <li>Term: 2025.03.01 - </li>
+          <li>Organizer: Self Study</li>
+          <li>Domain: FrontEnd</li>
+          <li>Detail</li>
+          <ul>
+            <li><a href="https://developer.mozilla.org/ko/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/ko/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content">CSS</a>, <a href="https://ko.javascript.info/">Modern JavaScript</a></li>
+            <li><a href="https://ko.react.dev/learn">React</a></li>
+            <li><a href="https://nodejs.org/ko">NodeJS</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
+          </ul>
+          <li>[Projects] <a href="#">FrontEnd Results</a></li>
+        </ul>
+      </details>
+      <details>
         <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
         <ul>
           <li>Term: 2023.11.06-2024.04.02</li>
