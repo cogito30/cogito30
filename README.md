@@ -60,16 +60,42 @@
           <li>[Website] <a href="https://dreamhack.io/">DreamHack</a></li>
         </ul>
       </details>
-      <details>
+<!--       <details>
+        <summary>BackEnd(2025.03-2025.04)</summary>
+        <ul>
+          <li>Term: 2025.03.31 - </li>
+          <li>Organizer: Self-Study</li>
+          <li>Domain: Backend</li>
+          <li>Detail</li>
+          <ul>
+            <li><a href="https://docs.oracle.com/en/java/javase/21/">Java 21</a></li>
+            <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a></li>
+            <li><a href="https://gradle.org/">Gradle</a></li>
+            <li><a href="https://www.jetbrains.com/help/idea/getting-started.html">IntelliJ</a></li>
+            <li><a href="https://ko.javascript.info/">Modern JavaScript</a></li>
+            <li><a href="https://nodejs.org/ko">NodeJS</a></li>
+            <li><a href="https://expressjs.com/">Express</a></li>
+            <li><a href="https://socket.io/">Socket.io</a></li>
+            <li><a href="https://jestjs.io/">Jest</a></li>
+          </ul>
+<!--           <li>[Project] <a href="#">#</a></li> -->
+          <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
+        </ul>
+      </details>
+      <details> -->
         <summary>FrontEnd(2025.03-)</summary>
         <ul>
           <li>Term: 2025.03.01 - </li>
-          <li>Organizer: Self Study</li>
+          <li>Organizer: Self-Study</li>
           <li>Domain: FrontEnd</li>
           <li>Detail</li>
           <ul>
             <li><a href="https://developer.mozilla.org/ko/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/ko/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content">CSS</a>, <a href="https://ko.javascript.info/">Modern JavaScript</a></li>
-            <li><a href="https://ko.react.dev/learn">React</a></li>
+            <li><a href="https://ko.react.dev/learn">React19</a></li>
+            <li><a href="https://webpack.kr/">Webpack</a></li>
+            <li><a href="https://v3-docs.vuejs-korea.org/">Vue3</a></li>
+            <li><a href="https://ko.vite.dev/guide/">Vite</a></li>
             <li><a href="https://nodejs.org/ko">NodeJS</a></li>
             <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
           </ul>
