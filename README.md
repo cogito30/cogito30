@@ -96,6 +96,8 @@
             <li><a href="https://webpack.kr/">Webpack</a></li>
             <li><a href="https://v3-docs.vuejs-korea.org/">Vue3</a></li>
             <li><a href="https://ko.vite.dev/guide/">Vite</a></li>
+            <li><a href="https://webglfundamentals.org/">WebGL</a></li>
+            <li><a href="https://webgl2fundamentals.org/">WebGL2</a></li>
             <li><a href="https://nodejs.org/ko">NodeJS</a></li>
             <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
           </ul>
