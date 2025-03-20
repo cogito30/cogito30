@@ -82,8 +82,8 @@
           <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
         </ul>
-      </details>
-      <details> -->
+      </details> -->
+      <details>
         <summary>FrontEnd(2025.03-)</summary>
         <ul>
           <li>Term: 2025.03.01 - </li>
