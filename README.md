@@ -207,7 +207,7 @@
           <li>[Project] <a href="#">Yggdrasil(Education)</a></li>
         </ul>
       </details> -->
-      <details>
+<!--       <details>
         <summary>React Study: 2025.03-...</summary>
         <ul>
           <li>Term: 2025.03.01 - ...</li>
@@ -223,7 +223,7 @@
           <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
           <li>[Blog] <a href="#">React Tutorial</a></li>
         </ul>
-      </details>
+      </details> -->
       <details>
         <summary>Cogito30's Blog(2025.02-2025.03)</summary>
         <ul>
