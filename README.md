@@ -165,11 +165,11 @@
           <li>Domain: AI(Computer Vision)</li>
           <ii>Detail</ii>
           <ul>
-            <li>TV 패널 불량 데이터 제작</li>
+            <li>AI Model 학습을 위한 TV 패널 불량 데이터 제작</li>
             <li>AI Model Test on Nvidia Jetson Xavier</li>
           </ul>
+          <li>[Project]: <a hred="#">#</a></li>
         </ul>
-        <li>[Project]: ...</li>
       </details>
     </div>
     
