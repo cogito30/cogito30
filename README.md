@@ -115,7 +115,7 @@
           <li>Domain: Computer Vision</li>
           <li>Detail </li>
           <ul>
-            <li>AI Model: MLP, AlexNet, VGG-16, GoogleNet, ResNet, LSTM, GRU, Transformer, YOLO, SSD, MobileNet, FCN </li>
+            <li>Subject: AI Basic, AI Model(Computer Vision)</li>
             <li>Language: Python</li>
             <li>Framework: Numpy, Pandas, Matplotlib, PyTorch, MMDetection, FastAPI</li>
             <li>Tools: VSCode</li>
@@ -131,11 +131,10 @@
           <li>Domain: Computer Science</li>
           <li>Detail</li>
           <ul>
-            <li>Basic: Programming Language, Algorithm, Network, Operating System, Graphics, Linux Command, Git, Docker
+            <li>Subject: Programming Language, Algorithm, Network, Operating System, Graphics, Linux, Git, Docker
             <li>Language: C, C++</li>
             <li>Tools: Vim, GCC, Make, CMake, Git</li>
           </ul>
-          <li>[Project] ...</li>
         </ul>
       </details>
       <details>
@@ -146,10 +145,10 @@
           <li>Domain: Computer Science</li>
           <li>Detail</li>
           <ul>
-            <li>git command, linux command</li>
-            <li>make, gcc, c language</li>
+            <li>Subject: Programming Language(C), Linux Command</li>
+            <li>Language: c</li>
+            <li>Tool: gcc, make, terminal, vi/vim</li>
           </ul>
-          <li>[Project]: ...</li>
         </ul>
       </details>
     </div>
