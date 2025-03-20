@@ -46,6 +46,22 @@
   <article id="external_education">
     <h2>External Education</h2>
     <div>
+<!--       <details>
+        <summary>Graphics(-)</summary>
+        <ul>
+          <li>Term: - </li>
+          <li>Organizer: Self-Study</li>
+          <li>Domain: Graphics</li>
+          <li>Detail</li>
+          <ul>
+            <li><a href="https://webglfundamentals.org/">WebGL</a></li>
+            <li><a href="https://webgl2fundamentals.org/">WebGL2</a></li>
+            <li><a href="https://www.honglab.ai/">Graphics(honglab)</a></li>
+            <li><a href="https://www.openmp.org/">OpenMP</a></li>
+          </ul>
+          <li>[Project] <a href="#">#</a></li>
+        </ul>
+      </details> -->
       <details>
         <summary>DreamHack(2025.02-)</summary>
         <ul>
@@ -54,10 +70,12 @@
           <li>Domain: Security</li>
           <li>Detail</li>
           <ul>
-            <li>Dream Beginners</li>
-            <li>Web Hacking</li>
+            <li><a href="https://dreamhack.io/lecture/roadmaps/all/cryptography">Cryptography</a></li>
+            <li><a href="https://dreamhack.io/lecture/roadmaps/all/web-hacking">Web Hacking</a></li>
+            <li><a href="https://dreamhack.io/lecture/roadmaps/all/reverse-engineering">Reverse Engineering</a></li>
+            <li><a href="https://dreamhack.io/lecture/roadmaps/all/system-hacking">System Hacking</a></li>
           </ul>
-          <li>[Website] <a href="https://dreamhack.io/">DreamHack</a></li>
+          <li>[Summary] <a href="#">Web Develope Blog</a></li>
         </ul>
       </details>
 <!--       <details>
@@ -96,8 +114,6 @@
             <li><a href="https://webpack.kr/">Webpack</a></li>
             <li><a href="https://v3-docs.vuejs-korea.org/">Vue3</a></li>
             <li><a href="https://ko.vite.dev/guide/">Vite</a></li>
-            <li><a href="https://webglfundamentals.org/">WebGL</a></li>
-            <li><a href="https://webgl2fundamentals.org/">WebGL2</a></li>
             <li><a href="https://nodejs.org/ko">NodeJS</a></li>
             <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
           </ul>
