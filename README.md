@@ -78,7 +78,7 @@
             <li><a href="https://socket.io/">Socket.io</a></li>
             <li><a href="https://jestjs.io/">Jest</a></li>
           </ul>
-<!--           <li>[Project] <a href="#">#</a></li> -->
+          <li>[Project] <a href="#">#</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
         </ul>
