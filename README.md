@@ -66,7 +66,7 @@
         <summary>DreamHack(2025.02-)</summary>
         <ul>
           <li>Term: 2025.02.22- </li>
-          <li>Organizer: Theori Korea</li>
+          <li>Organizer: Self-Study</li>
           <li>Domain: Security</li>
           <li>Detail</li>
           <ul>
