@@ -17,7 +17,7 @@
 - 이론: UI Design + Figma + PowerPiont
 - HTML + CSS + JS DOM + JS Fetch API
 - Modern JavaScript + VSCode + React + styled-components
-- 자격증: 
+- 자격증:
 
 2. BackEnd
 - 이론: 네트워크(프로토콜) + API 설계 + 데이터베이스(UML 설계) + 운영체제(쓰레드/프로세스)
