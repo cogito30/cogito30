@@ -1,6 +1,18 @@
 # Bucket List
 
+## Description
+- 용어 정리 및 기능별 요약
+- 절차별 방법 작성
+
 ## To Do List
+0. 어학 및 문서
+- 영어: TOEIC / TOEIC Speaking / TOEIC Writing / IELSTS => 영어 문서 읽기 및 비즈니스 문서 작성
+- 일본어: JLPT N3 / JLPT N2 => 여행 회화
+- 문서: PowerPoint / Word / Excel => 비즈니스 문서 작성
+- 이미지 편집: 
+- 음성 편집: 
+- 영상 편집: iMovie
+
 1. FrontEnd
 - 이론: UI Design + Figma + PowerPiont
 - HTML + CSS + JS DOM + JS Fetch API
