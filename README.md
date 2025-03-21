@@ -63,7 +63,7 @@
         </ul>
       </details> -->
       <details>
-        <summary>Data Analysis(Ready)</summary>
+        <summary>Data Analysis(Waiting)</summary>
         <ul>
           <li>Term: - </li>
           <li>Organizer: Self-Study</li>
@@ -82,7 +82,7 @@
         </ul>
       </details>
       <details>
-        <summary>AI(Ready)</summary>
+        <summary>AI(Waiting)</summary>
         <ul>
           <li>Term: - </li>
           <li>Organizer: Self-Study</li>
@@ -141,7 +141,7 @@
         </ul>
       </details>
       <details>
-        <summary>FrontEnd(2025.03-)</summary>
+        <summary>FrontEnd(Running)</summary>
         <ul>
           <li>Term: 2025.03.01 - </li>
           <li>Organizer: Self-Study</li>
