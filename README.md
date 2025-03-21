@@ -63,7 +63,46 @@
         </ul>
       </details> -->
       <details>
-        <summary>DreamHack(2025.02-)</summary>
+        <summary>Data Analysis(Ready)</summary>
+        <ul>
+          <li>Term: - </li>
+          <li>Organizer: Self-Study</li>
+          <li>Domain: Data Analysis</li>
+          <li>Detail</li>
+          <ul>
+            <li><a href="https://www.kaggle.com/learn">Kaggle</a></li>
+            <li><a href="https://datascienceschool.net/intro.html">데이터사이언스 스쿨</a></li>
+            <li><a href="https://pandas.pydata.org/docs/">Pandas</a></li>
+            <li><a href="https://matplotlib.org/">Matplotlib</a></li>
+            <li><a href="https://scikit-learn.org/stable/">Scikit-Learn</a></li>
+            <li><a href="https://scipy.org/">Scipy</a></li>
+            <li><a href="https://www.statsmodels.org/stable/index.html">statsmodels</a></li>
+          </ul>
+          <li>[Project] <a href="https://github.com/cogito30/practice_data_analysis">Practice Data Analysis</a></li>
+        </ul>
+      </details>
+      <details>
+        <summary>AI(Ready)</summary>
+        <ul>
+          <li>Term: - </li>
+          <li>Organizer: Self-Study</li>
+          <li>Domain: AI</li>
+          <li>Detail</li>
+          <ul>
+            <li><a href="https://www.kaggle.com/learn">Kaggle</a></li>
+            <li><a href="https://www.deeplearningbook.org/">Deep Learning</a></li>
+            <li><a href="https://d2l.ai/">Dive into DeepLearning</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXAv9iRV5vTVdXcjuFsmtF4X">데이터사이언스의 원리와 응용</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXA5u65LBjzFCAVSZ4xuBWqj">머신러닝 및 딥러닝</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXBhqjwBzFQ88YXWotXrKRG-">Computer Vision</a></li>
+            <li><a href="#">(교재) 밑바닥부터 시작하는 딥러닝 1-5</a></li>
+          </ul>
+          <li>[Project] <a href="https://github.com/cogito30/practice_pytorch">Practice PyTorch</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/practice_python">Practice Python</a></li>
+        </ul>
+      </details>
+      <details>
+        <summary>DreamHack(Pause)</summary>
         <ul>
           <li>Term: 2025.02.22- </li>
           <li>Organizer: Self-Study</li>
@@ -78,10 +117,10 @@
           <li>[Summary] <a href="#">Web Develope Blog</a></li>
         </ul>
       </details>
-<!--       <details>
-        <summary>BackEnd(2025.03-2025.04)</summary>
+      <details>
+        <summary>BackEnd(Ready)</summary>
         <ul>
-          <li>Term: 2025.03.31 - </li>
+          <li>Term:  - </li>
           <li>Organizer: Self-Study</li>
           <li>Domain: Backend</li>
           <li>Detail</li>
@@ -100,7 +139,7 @@
           <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
         </ul>
-      </details> -->
+      </details>
       <details>
         <summary>FrontEnd(2025.03-)</summary>
         <ul>
