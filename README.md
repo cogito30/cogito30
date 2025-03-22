@@ -359,12 +359,20 @@
     <div>
       <h4>Data Analysis(Python)</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
+      <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
+      <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
+      <img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23008FC7?style=flat-square">
+      <img alt="plotly" src="https://img.shields.io/badge/plotly-%233F4F75?style=flat-square&logo=plotly">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </div>
     <div>
       <h4>AI(Python)</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+      <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
+      <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
+      <img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23008FC7?style=flat-square">
+      <img alt="plotly" src="https://img.shields.io/badge/plotly-%233F4F75?style=flat-square&logo=plotly">
        <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
       <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
