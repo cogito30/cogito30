@@ -351,14 +351,22 @@
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
     </div>
     <div>
-      <h4>Python</h4>
+      <h4>BackEnd(Python)</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-      <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-      <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
-      <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </div>
+    <div>
+      <h4>Data Analysis(Python)</h4>
+      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
+      <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </div>
+    <div>
+      <h4>AI(Python)</h4>
+      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
+      <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
     <div>
       <h4>Tool</h4>
