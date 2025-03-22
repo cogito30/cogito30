@@ -335,8 +335,8 @@
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-      <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
+      <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=white">
     </div>
     <div>
       <h4>BackEnd(Java)</h4>
@@ -353,6 +353,7 @@
     <div>
       <h4>BackEnd(Python)</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
+      <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
     </div>
