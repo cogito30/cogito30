@@ -362,7 +362,7 @@
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
-      <img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23008FC7?style=flat-square">
+      <a href="https://seaborn.pydata.org/"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23008FC7?style=flat-square"></a>
       <img alt="plotly" src="https://img.shields.io/badge/plotly-%233F4F75?style=flat-square&logo=plotly">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
