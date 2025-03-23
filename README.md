@@ -234,10 +234,10 @@
   <article id="projects">
     <h2>Projects</h2>
     <div>
-<!--       <details>
-        <summary>Yggdrasil(Education): 2025.03-...</summary>
+      <details>
+        <summary>Yggdrasil(Education): 2025.03-</summary>
         <ul>
-          <li>Term: 2025.03.01 - ...</li>
+          <li>Term: 2025.03.01 - </li>
           <li>Domain: Frontend/Backend</li>
           <li>Member: 01</li>
           <li>Detail</li>
@@ -259,10 +259,9 @@
           <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
       <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
-          <li>[Project] <a href="https://github.com/cogito30/web_product_manage">Project Log</a></li>
-          <li>[Project] <a href="#">Yggdrasil(Education)</a></li>
+          <li>[Project] <a href="https://cogito30.github.io/study_resource/">Yggdrasil(Education)</a></li>
         </ul>
-      </details> -->
+      </details>
 <!--       <details>
         <summary>React Study: 2025.03-...</summary>
         <ul>
