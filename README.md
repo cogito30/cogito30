@@ -343,7 +343,7 @@
             <li>측정부 설계 및 구현</li>
             <li>PT 발표</li>
           </ul>
-          <li>[Project] <a href="">양방향 뇌신경 신호처리 시스템</a> </li>
+          <li>[Project] <a href="https://github.com/cogito30/circuit_project">양방향 뇌신경 신호처리 시스템</a> </li>
         </ul>
       </details>
     </div>
