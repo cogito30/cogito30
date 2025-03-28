@@ -1,7 +1,6 @@
 <header>
   <h1 align="center">cogito30</h1>
   <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcogito30&count_bg=%23DEA411&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
   <a href="https://cogito30.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-%236ccad0"></a>
   <a href="https://github.com/cogito30?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-gray?logo=github"></a>
   <a href="https://psychologyforpeople.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF4500?logo=tistory&link=https%3A%2F%2Fpsychologyforpeople.tistory.com%2F"></a>
@@ -314,6 +313,38 @@
           </ul>
           <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
           <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
+        </ul>
+      </details>
+      </details>
+      <details>
+        <summary>(2024.02-2024.04)</summary>
+        <ul>
+          <li>Term: 2024.02.12 - 2025.04.01</li>
+          <li>Domain: AI && Web</li>
+          <li>Member: 06</li>
+          <li>Detail</li>
+          <ul>
+            <li>AI 모델 학습</li>
+            <li>웹 개발</li>
+            <li>테스트 및 버그 수정</li>
+          </ul>
+          <li>[Project] <a href="">실시간 무인매장 이상행동 탐지</a></li>
+        </ul>
+      </details>
+      <details>
+        <summary>양방향 뇌신경 신호처리 시스템(2018.12-2019.12)</summary>
+        <ul>
+          <li>Term: 2018.12 - 2019.12</li>
+          <li>Domain: Embedded System</li>
+          <li>Member: 04</li>
+          <li>Detail</li>
+          <ul>
+            <li>팀장 역할(일정관리 및 미팅관리)</li>
+            <li>팀 회의 주최 및 보고서 작성</li>
+            <li>측정부 설계 및 구현</li>
+            <li>PT 발표</li>
+          </ul>
+          <li>[Project] <a href="">양방향 뇌신경 신호처리 시스템</a> </li>
         </ul>
       </details>
     </div>
