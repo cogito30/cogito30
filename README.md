@@ -61,7 +61,7 @@
           <li>[Project] <a href="#">#</a></li>
         </ul>
       </details> -->
-      <details>
+<!--       <details>
         <summary>Data Analysis(Waiting)</summary>
         <ul>
           <li>Term: - </li>
@@ -79,8 +79,8 @@
           </ul>
           <li>[Project] <a href="https://github.com/cogito30/practice_data_analysis">Practice Data Analysis</a></li>
         </ul>
-      </details>
-      <details>
+      </details> -->
+<!--       <details>
         <summary>AI(Waiting)</summary>
         <ul>
           <li>Term: - </li>
@@ -99,8 +99,8 @@
           <li>[Project] <a href="https://github.com/cogito30/practice_pytorch">Practice PyTorch</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_python">Practice Python</a></li>
         </ul>
-      </details>
-      <details>
+      </details> -->
+<!--       <details>
         <summary>DreamHack(Pause)</summary>
         <ul>
           <li>Term: 2025.02.22- </li>
@@ -115,7 +115,7 @@
           </ul>
           <li>[Summary] <a href="#">Web Develope Blog</a></li>
         </ul>
-      </details>
+      </details> -->
       <details>
         <summary>BackEnd(Ready)</summary>
         <ul>
