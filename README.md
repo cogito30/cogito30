@@ -315,9 +315,8 @@
           <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
         </ul>
       </details>
-      </details>
       <details>
-        <summary>(2024.02-2024.04)</summary>
+        <summary>실시간 무인매장 이상행동 탐지(2024.02-2024.04)</summary>
         <ul>
           <li>Term: 2024.02.12 - 2025.04.01</li>
           <li>Domain: AI && Web</li>
