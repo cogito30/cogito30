@@ -327,7 +327,7 @@
             <li>웹 개발</li>
             <li>테스트 및 버그 수정</li>
           </ul>
-          <li>[Project] <a href="">실시간 무인매장 이상행동 탐지</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/boostcamp_project">실시간 무인매장 이상행동 탐지</a></li>
         </ul>
       </details>
       <details>
