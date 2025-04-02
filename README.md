@@ -8,6 +8,17 @@
   </div>
 </header>
 
+<div class="container">
+  <h2>April Schedule</h2>
+  <ul style="style-type: none;">
+    <li>기본 학습</li>
+    <li>산책</li>
+    <li>Project</li>
+    <li>산책/운동</li>
+    <li>Project(기능별)</li>
+  </ul>
+</div>
+
 <br />
 
 <nav>
