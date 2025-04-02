@@ -234,31 +234,22 @@
     <h2>Projects</h2>
     <div>
       <details>
-        <summary>Yggdrasil(Education): 2025.03-</summary>
+        <summary>Management System: 2025.04-</summary>
         <ul>
-          <li>Term: 2025.03.01 - </li>
-          <li>Domain: Frontend/Backend</li>
+          <li>Term: 2025.04.01 - </li>
+          <li>Domain: Frontend</li>
           <li>Member: 01</li>
           <li>Detail</li>
           <ol type="1">
-            <li>Set Rules(Coding Convention, Project Structure, Git Commit Message, Git Branch, Processing)</li>
-            <li>Write Project Proposal</li>
-            <li>UI Design with Figma</li>
-            <li>Implement UI Design with HTML5, CSS3</li>
-            <li>Implement Web Site with HTML5, CSS3, JavaScript</li>
-            <li>Service Blog Web Site with GitPages</li>
+            <li>Stop Watch Page</li>
+            <li>Clock Page</li>
           </ol>
           <li>Skill</li>
-          <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
-          <img alt="powerpoint" src="https://img.shields.io/badge/powerpoint-%23FF7F50?style=flat-square">
           <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
           <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
-          <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
-      <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
-      <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
-          <li>[Project] <a href="https://cogito30.github.io/study_resource/">Yggdrasil(Education)</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/planner">Planner</a></li>
         </ul>
       </details>
 <!--       <details>
