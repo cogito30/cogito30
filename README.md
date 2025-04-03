@@ -13,9 +13,9 @@
   <ul style="style-type: none;">
     <li>기본 학습 | 정보보안기사(필기)</li>
     <li>산책</li>
-    <li>Project | 백엔드 NodeJS/Express</li>
+    <li>Project | 백엔드(NodeJS/Express)</li>
     <li>산책/운동</li>
-    <li>Project(기능별) | 백엔드 NodeJS/Express</li>
+    <li>Project(기능별) | 백엔드(NodeJS/Express)</li>
   </ul>
 </div>
 
