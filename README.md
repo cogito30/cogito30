@@ -254,6 +254,7 @@
           <ol type="1">
             <li>Stop Watch Page</li>
             <li>Clock Page</li>
+            <li>Calendar && Clock</li>
           </ol>
           <li>Skill</li>
           <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
