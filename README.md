@@ -31,7 +31,7 @@
   </div>
 </nav>
 
-<main>
+<main align="center">
   <article>
     <h2 id="intro">Introduce</h2>
     <div>
