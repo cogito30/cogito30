@@ -13,7 +13,7 @@
 
 <div align="center" class="container">
   <h2>April Schedule</h2>
-  <ul style="style-type: none;">
+  <ul style="list-style-type: none;">
     <li>기본 학습 | 정보보안기사(필기)</li>
     <li>산책</li>
     <li>Project | 백엔드(NodeJS/Express)</li>
