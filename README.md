@@ -41,8 +41,8 @@
       <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>.</p>
   </article>
 
-  <article align="center" id="education">
-    <h2>Education</h2>
+  <article id="education">
+    <h2 align="center">Education</h2>
     <div>
       <details>
         <summary>Seoul National University of Science and Technology(2013.03-2020.02)</summary>
@@ -57,7 +57,7 @@
   </article>
   
   <article id="external_education">
-    <h2>External Education</h2>
+    <h2 align="center">External Education</h2>
     <div>
 <!--       <details>
         <summary>Graphics(-)</summary>
@@ -225,7 +225,7 @@
   </article>
 
   <article id="experience">
-    <h2>Experience</h2>
+    <h2 align="center">Experience</h2>
     <div>
       <details>
         <summary>삼진엘앤디(2019.06-2019.10)</summary>
@@ -245,7 +245,7 @@
   </article>
   
   <article id="projects">
-    <h2>Projects</h2>
+    <h2 align="center">Projects</h2>
     <div>
       <details>
         <summary>Management System: 2025.04-</summary>
@@ -358,7 +358,7 @@
 
   
   <article id="skills">
-    <h2>Languages and Tools</h2> 
+    <h2 align="center">Languages and Tools</h2> 
     <div>
       <h4>C/C++</h4>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
@@ -433,7 +433,7 @@
   </article>
 
   <article id="certificate">
-    <h2>Certificate</h2>
+    <h2 align="center">Certificate</h2>
     <div>
       <h4>Summary</h4>
       <ul>
@@ -484,7 +484,7 @@
   </article>
 
 <article id="life_cycle">
-    <h2>Life Cycle</h2>
+    <h2 align="center">Life Cycle</h2>
     <div>
       <details>
         <summary>2025: Web Develope</summary>
