@@ -488,7 +488,7 @@
         <ul>
           <li>2025.01: </li>
           <li>2025.02: Java Algorithm</li>
-          <li>2025.03: Frontend/Backend Study: HTML, CSS, Javazscript, React, Webpack, NodeJS, Express</li>
+          <li>2025.03: Frontend/Backend Study: HTML, CSS, JavaScript, React, Webpack, NodeJS, Express</li>
           <li>2025.04: Frontend Develope: Project</li>
 <!--           <li>2025.05: Backend/AI Study: Spring Boot, Spring, Django, FastAPI, PyTorch</li>
           <li>2025.06: Backend Develope: Project</li> -->
