@@ -25,15 +25,15 @@
 <br />
 
 <nav>
-  <div align="center">
+  <div align="center"\>
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
     <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#certificate">Certificate</a> | <a href="#life cycle">Life Cycle</a>
   </div>
 </nav>
 
-<main align="center">
+<main>
   <article>
-    <h2 id="intro">Introduce</h2>
+    <h2 align="center" id="intro">Introduce</h2>
     <div>
       <p>Welcome to cogito30!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
@@ -41,7 +41,7 @@
       <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>.</p>
   </article>
 
-  <article id="education">
+  <article align="center" id="education">
     <h2>Education</h2>
     <div>
       <details>
