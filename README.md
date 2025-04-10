@@ -130,7 +130,7 @@
           <li>[Summary] <a href="#">Web Develope Blog</a></li>
         </ul>
       </details> -->
-      <details>
+<!--       <details>
         <summary>BackEnd(Ready)</summary>
         <ul>
           <li>Term:  - </li>
@@ -152,9 +152,9 @@
           <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
           <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
         </ul>
-      </details>
+      </details> -->
       <details>
-        <summary>FrontEnd(Running)</summary>
+        <summary>Full-Stack Develope(Running)</summary>
         <ul>
           <li>Term: 2025.03.01 - </li>
           <li>Organizer: Self-Study</li>
