@@ -14,11 +14,11 @@
 <div align="center" class="container">
   <h2>April Schedule</h2>
   <ul style="list-style-type: none;">
-    <li>기본 학습(NodeJS/Express) | 정보보안기사(필기)</li>
-    <li>산책</li>
-    <li>Project</li>
-    <li>산책</li>
-    <li>Algorithm(Q1-2)</li>
+    <li>2-3H: 기본 학습(NodeJS/Express) | 정보보안기사(필기)</li>
+    <li>2H: 산책</li>
+    <li>5H: Project</li>
+    <li>2H; 산책</li>
+    <li>3H: Algorithm(Q1-2)</li>
   </ul>
 </div>
 
