@@ -17,7 +17,7 @@
     <li>기본 학습(NodeJS/Express) | 정보보안기사(필기)</li>
     <li>산책</li>
     <li>Project</li>
-    <li>산책/운동</li>
+    <li>산책</li>
     <li>Algorithm(Q1-2)</li>
   </ul>
 </div>
