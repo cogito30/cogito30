@@ -14,7 +14,7 @@
 <div align="center" class="container">
   <h2>April Schedule</h2>
   <ul style="list-style-type: none;">
-    <li>Goal: Coding Test 집중하기</li>
+    <li>Goal: Coding Test && Algorithm(Python) 집중하기</li>
     <li>2-3H: 기본 학습(NodeJS/Express) | 정보보안기사(필기)</li>
     <li>2H: 산책</li>
     <li>5H: Project</li>
