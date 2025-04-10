@@ -248,6 +248,23 @@
     <h2 align="center">Projects</h2>
     <div>
       <details>
+        <summary>Coding Test(Python): 2025.04-</summary>
+        <ul>
+          <li>Term: 2025.04.10 - </li>
+          <li>Domain: Algorithm</li>
+          <li>Member: 01</li>
+          <li>Detail</li>
+          <ol type="1">
+            <li>Programmers: LV0</li>
+            <li>Programmers: Lv1</li>
+            <li>Programmers: Lv2</li>
+          </ol>
+          <li>Skill</li>
+          <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
+          <li>[Blog] <a href="#">Programmers</a></li>
+        </ul>
+      </details>
+      <details>
         <summary>Management System: 2025.04-</summary>
         <ul>
           <li>Term: 2025.04.01 - </li>
