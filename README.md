@@ -38,8 +38,8 @@
     <div>
       <p>Welcome to cogito30!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
-      <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Data Analysis</code>, <code>AI</code>, <code>Embedded SW</code></p>
-      <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code>.</p>
+      <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Data Analysis</code>, <code>Embedded SW</code>, <code>AI</code></p>
+      <p>I'm currently interested in <strong>Industry</strong>: <code>Service</code>, <code>System Integration</code>, <code>Finance</code></p>
   </article>
 
   <article id="education">
