@@ -382,7 +382,7 @@
       <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
     </div>
     <div>
-      <h4>FrontEnd(JavaScript)</h4>
+      <h4>FrontEnd</h4>
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -390,26 +390,20 @@
       <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=white">
     </div>
     <div>
-      <h4>BackEnd(Java)</h4>
-      <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
-      <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
-      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
-    </div>
-    <div>
-      <h4>BackEnd(JavaScript)</h4>
+      <h4>BackEnd</h4>
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
-    </div>
-    <div>
-      <h4>BackEnd(Python)</h4>
+      <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
+      <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
     </div>
     <div>
-      <h4>Data Analysis + AI(Python)</h4>
+      <h4>Data Analysis + AI</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
