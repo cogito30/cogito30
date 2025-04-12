@@ -257,10 +257,11 @@
             <li>Programmers: LV0</li>
             <li>Programmers: Lv1</li>
             <li>Programmers: Lv2</li>
+            <li>Programmers: Lv3</li>
           </ol>
           <li>Skill</li>
           <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-          <li>[Blog] <a href="#">Programmers</a></li>
+          <li>[Blog] <a href="#">Programmers Solution</a></li>
         </ul>
       </details>
       <details>
