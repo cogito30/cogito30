@@ -417,14 +417,10 @@
     <div>
       <h4>Tool</h4>
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
-      <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-%23FF9800?style=flat-square&logo=sublime%20text&logoColor=white" />
       <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
       <img alt="visual studio" src="https://img.shields.io/badge/visual%20studio-%23512BD4?style=flat-square" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
-      <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
-      <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
-      <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&color=%23F24E1E">
     </div>
     <div>
       <h4>OS</h4>
