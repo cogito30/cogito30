@@ -155,7 +155,7 @@
         <ul>
           <li>Term: 2025.03.01 - </li>
           <li>Organizer: Self-Study</li>
-          <li>Domain: FrontEnd</li>
+          <li>Domain: FrontEnd/Backend</li>
           <li>Detail</li>
           <ul>
             <li><a href="https://developer.mozilla.org/ko/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/ko/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content">CSS</a>, <a href="https://ko.javascript.info/">Modern JavaScript</a></li>
