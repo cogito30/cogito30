@@ -129,7 +129,7 @@
     <h2 align="center">Projects</h2>
     <div>
       <details>
-        <summary>Coding Test(Python): 2025.04-</summary>
+        <summary>Coding Test(Python): 2025.04-...</summary>
         <ul>
           <li>Term: 2025.04.10 - </li>
           <li>Domain: Algorithm</li>
@@ -147,42 +147,31 @@
         </ul>
       </details>
       <details>
-        <summary>Management System: 2025.04-</summary>
+        <summary>Personal System: 2025.04-...</summary>
         <ul>
           <li>Term: 2025.04.01 - </li>
           <li>Domain: Frontend</li>
           <li>Member: 01</li>
           <li>Detail</li>
           <ol type="1">
-            <li>Stop Watch Page</li>
+            <li>Profile Page</li>
+            <li>Portfolio Page</li>
+            <li>StopWatch Page</li>
             <li>Clock Page</li>
-            <li>Calendar && Clock</li>
+            <li>Timer Page</li>
+            <li>Calendar && Scheduler</li>
+            <li>Planner(ToDoList)</li>
           </ol>
           <li>Skill</li>
           <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
           <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
-          <li>[Project] <a href="https://github.com/cogito30/planner">Planner</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/js_clock2">Clock&&Timer(v2)</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/js_stopwatch2">Stopwatch(v2)</a></li>
+          <li>[Project] <a href="https://github.com/cogito30/js_profile2">Profile(v2)</a></li>
         </ul>
       </details>
-<!--       <details>
-        <summary>React Study: 2025.03-...</summary>
-        <ul>
-          <li>Term: 2025.03.01 - ...</li>
-          <li>Domain: Education</li>
-          <li>Member: 01</li>
-          <li>Detail</li>
-          <ol type="1">
-            <li>Summary React Tutorial</li>
-          </ol>
-          <li>Skill</li>
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
-          <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
-          <li>[Blog] <a href="#">React Tutorial</a></li>
-        </ul>
-      </details> -->
       <details>
         <summary>Cogito30's Blog(2025.02-2025.03)</summary>
         <ul>
