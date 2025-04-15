@@ -260,7 +260,7 @@
           </ol>
           <li>Skill</li>
           <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-          <li>[Blog] <a href="#">Programmers Solution</a></li>
+          <li>[GitHub] <a href="https://github.com/cogito30/py_programmers">Programmers Solution</a></li>
         </ul>
       </details>
       <details>
