@@ -7,7 +7,8 @@
   <a href="https://www.youtube.com/@cogito30"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-%23FF0000?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40cogito30"></a>
   </div>
   <p align="center">
-    일상을 관찰하여 시스템화하는데 관심 있는 개발자입니다.<br />
+    매순간 변화하고 성장하는 개발자입니다.<br/>
+    일상을 관찰하여 시스템화하는데 관심이 있습니다.<br />
   </p>
 </header>
 
