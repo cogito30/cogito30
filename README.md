@@ -59,123 +59,6 @@
   <article id="external_education">
     <h2 align="center">External Education</h2>
     <div>
-<!--       <details>
-        <summary>Graphics(-)</summary>
-        <ul>
-          <li>Term: - </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: Graphics</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://webglfundamentals.org/">WebGL</a></li>
-            <li><a href="https://webgl2fundamentals.org/">WebGL2</a></li>
-            <li><a href="https://www.honglab.ai/">Graphics(honglab)</a></li>
-            <li><a href="https://www.openmp.org/">OpenMP</a></li>
-          </ul>
-          <li>[Project] <a href="#">#</a></li>
-        </ul>
-      </details> -->
-<!--       <details>
-        <summary>Data Analysis(Waiting)</summary>
-        <ul>
-          <li>Term: - </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: Data Analysis</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://www.kaggle.com/learn">Kaggle</a></li>
-            <li><a href="https://datascienceschool.net/intro.html">데이터사이언스 스쿨</a></li>
-            <li><a href="https://pandas.pydata.org/docs/">Pandas</a></li>
-            <li><a href="https://matplotlib.org/">Matplotlib</a></li>
-            <li><a href="https://scikit-learn.org/stable/">Scikit-Learn</a></li>
-            <li><a href="https://scipy.org/">Scipy</a></li>
-            <li><a href="https://www.statsmodels.org/stable/index.html">statsmodels</a></li>
-          </ul>
-          <li>[Project] <a href="https://github.com/cogito30/practice_data_analysis">Practice Data Analysis</a></li>
-        </ul>
-      </details> -->
-<!--       <details>
-        <summary>AI(Waiting)</summary>
-        <ul>
-          <li>Term: - </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: AI</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://www.kaggle.com/learn">Kaggle</a></li>
-            <li><a href="https://www.deeplearningbook.org/">Deep Learning</a></li>
-            <li><a href="https://d2l.ai/">Dive into DeepLearning</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXAv9iRV5vTVdXcjuFsmtF4X">데이터사이언스의 원리와 응용</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXA5u65LBjzFCAVSZ4xuBWqj">머신러닝 및 딥러닝</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL0E_1UqNACXBhqjwBzFQ88YXWotXrKRG-">Computer Vision</a></li>
-            <li><a href="#">(교재) 밑바닥부터 시작하는 딥러닝 1-5</a></li>
-          </ul>
-          <li>[Project] <a href="https://github.com/cogito30/practice_pytorch">Practice PyTorch</a></li>
-          <li>[Project] <a href="https://github.com/cogito30/practice_python">Practice Python</a></li>
-        </ul>
-      </details> -->
-<!--       <details>
-        <summary>DreamHack(Pause)</summary>
-        <ul>
-          <li>Term: 2025.02.22- </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: Security</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://dreamhack.io/lecture/roadmaps/all/cryptography">Cryptography</a></li>
-            <li><a href="https://dreamhack.io/lecture/roadmaps/all/web-hacking">Web Hacking</a></li>
-            <li><a href="https://dreamhack.io/lecture/roadmaps/all/reverse-engineering">Reverse Engineering</a></li>
-            <li><a href="https://dreamhack.io/lecture/roadmaps/all/system-hacking">System Hacking</a></li>
-          </ul>
-          <li>[Summary] <a href="#">Web Develope Blog</a></li>
-        </ul>
-      </details> -->
-<!--       <details>
-        <summary>BackEnd(Ready)</summary>
-        <ul>
-          <li>Term:  - </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: Backend</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://docs.oracle.com/en/java/javase/21/">Java 21</a></li>
-            <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a></li>
-            <li><a href="https://gradle.org/">Gradle</a></li>
-            <li><a href="https://www.jetbrains.com/help/idea/getting-started.html">IntelliJ</a></li>
-            <li><a href="https://nodejs.org/ko">NodeJS</a></li>
-          </ul>
-          <li>[Project] <a href="#">#</a></li>
-          <li>[Project] <a href="https://github.com/cogito30/practice_springboot">Practice Spring Boot</a></li>
-          <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
-        </ul>
-      </details> -->
-<!--       <details>
-        <summary>Full-Stack Develope(Running)</summary>
-        <ul>
-          <li>Term: 2025.03.01 - </li>
-          <li>Organizer: Self-Study</li>
-          <li>Domain: FrontEnd/Backend</li>
-          <li>Detail</li>
-          <ul>
-            <li><a href="https://developer.mozilla.org/ko/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/ko/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content">CSS</a>, <a href="https://ko.javascript.info/">Modern JavaScript</a></li>
-            <li><a href="https://ko.react.dev/learn">React19</a></li>
-            <li><a href="https://webpack.kr/">Webpack</a></li>
-            <li><a href="https://v3-docs.vuejs-korea.org/">Vue3</a></li>
-            <li><a href="https://ko.vite.dev/guide/">Vite</a></li>
-            <li><a href="https://nodejs.org/ko">NodeJS</a></li>
-            <li><a href="https://expressjs.com/">Express</a></li>
-            <li><a href="https://socket.io/">Socket.io</a></li>
-            <li><a href="https://jestjs.io/">Jest</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL6i7rGeEmTvpl02msqS9RGuxZb-Sja3Ch">Web Design</a></li>
-          </ul>
-          <li>Projects</li>
-          <ul>
-            <li>[Project] <a href="https://cogito30.github.io/">Git Blog</a></li>
-            <li>[Project] <a href="https://github.com/cogito30/practice_react">Practice React</a></li>
-            <li>[Project] <a href="https://github.com/cogito30/practice_js">Practice JavaScript</a></li>
-          </ul>
-        </ul>
-      </details> -->
       <details>
         <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
         <ul>
@@ -491,8 +374,6 @@
           <li>2025.02: Java Algorithm</li>
           <li>2025.03: Frontend/Backend Study: HTML, CSS, JavaScript, React, Webpack, NodeJS, Express</li>
           <li>2025.04: Algorithm(Python) / Frontend Project / 정보보안기사(필기)</li>
-<!--           <li>2025.05: Backend/AI Study: Spring Boot, Spring, Django, FastAPI, PyTorch</li>
-          <li>2025.06: Backend Develope: Project</li> -->
         </ul>
       </details>
     </div>
