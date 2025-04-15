@@ -193,9 +193,9 @@
         </ul>
       </details>
       <details>
-        <summary>42Seoul(2022.03-2023.11)</summary>
+        <summary>42Seoul(2022.01-2023.11)</summary>
         <ul>
-          <li>Term: 2022.03.07-2023.11.01</li>
+          <li>Term: 2022.01.31-2023.11.01</li>
           <li>Organizer: Innovation Academy</li>
           <li>Domain: Computer Science</li>
           <li>Detail</li>
@@ -207,16 +207,15 @@
         </ul>
       </details>
       <details>
-        <summary>La Piscine(2022.01-2022.02)</summary>
+        <summary>인공지능사관학교(2020.05-2020.11)</summary>
         <ul>
-          <li>Term:2022.01.31-2022.02.25</li>
-          <li>Organizer: Innovation Academy</li>
-          <li>Domain: Computer Science</li>
+          <li>Term:2020.05-2020.11</li>
+          <li>Organizer: 멋쟁이사자처럼</li>
+          <li>Domain: AI</li>
           <li>Detail</li>
           <ul>
-            <li>Subject: Programming Language(C), Linux Command</li>
-            <li>Language: c</li>
-            <li>Tool: gcc, make, terminal, vi/vim</li>
+            <li>Subject: AI, DataAnalysis</li>
+            <li>Language: Python</li>
           </ul>
         </ul>
       </details>
