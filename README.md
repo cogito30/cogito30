@@ -149,7 +149,7 @@
           <li>[Project] <a href="https://github.com/cogito30/practice_java">Practice Java</a></li>
         </ul>
       </details> -->
-      <details>
+<!--       <details>
         <summary>Full-Stack Develope(Running)</summary>
         <ul>
           <li>Term: 2025.03.01 - </li>
@@ -175,7 +175,7 @@
             <li>[Project] <a href="https://github.com/cogito30/practice_js">Practice JavaScript</a></li>
           </ul>
         </ul>
-      </details>
+      </details> -->
       <details>
         <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
         <ul>
