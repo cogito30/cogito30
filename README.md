@@ -17,7 +17,7 @@
 <nav>
   <div align="center"\>
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
-    <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#certificate">Certificate</a> | <a href="#life cycle">Life Cycle</a>
+    <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#certificate">Certificate</a>
   </div>
 </nav>
 
@@ -155,7 +155,7 @@
 
   
   <article id="skills">
-    <h2 align="center">Languages and Tools</h2> 
+    <h2 align="center">Skills</h2> 
     <div>
       <h4>C/C++</h4>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
