@@ -35,10 +35,10 @@
     <h2 align="center">Education</h2>
     <div>
       <details>
-        <summary>Seoul National University of Science and Technology(2013.03-2020.02)</summary>
+        <summary>서울과학기술대학교(2013.03-2020.02)</summary>
         <ul>
           <li>Term: 2013.03.04-2020.02.21</li>
-          <li>Major: Electrical and Information Engineering</li>
+          <li>Major: 전기정보공학과</li>
           <li>GPA: 3.63/4.5</li>
           <li>Project: 양방향 뇌신경 신호처리 시스템</li>
         </ul>
@@ -118,87 +118,6 @@
   <article id="projects">
     <h2 align="center">Projects</h2>
     <div>
-      <details>
-        <summary>Coding Test(Python): 2025.04-...</summary>
-        <ul>
-          <li>Term: 2025.04.10 - </li>
-          <li>Domain: Algorithm</li>
-          <li>Member: 01</li>
-          <li>Detail</li>
-          <ol type="1">
-            <li>Programmers: LV0</li>
-            <li>Programmers: Lv1</li>
-            <li>Programmers: Lv2</li>
-            <li>Programmers: Lv3</li>
-          </ol>
-          <li>Skill</li>
-          <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-          <li>[GitHub] <a href="https://github.com/cogito30/py_programmers">Programmers Solution</a></li>
-        </ul>
-      </details>
-      <details>
-        <summary>Personal System: 2025.04-...</summary>
-        <ul>
-          <li>Term: 2025.04.01 - </li>
-          <li>Domain: Frontend</li>
-          <li>Member: 01</li>
-          <li>Detail</li>
-          <ol type="1">
-            <li>Profile Page</li>
-            <li>Portfolio Page</li>
-            <li>StopWatch Page</li>
-            <li>Clock Page</li>
-            <li>Timer Page</li>
-            <li>Calendar && Scheduler</li>
-            <li>Planner(ToDoList)</li>
-          </ol>
-          <li>Skill</li>
-          <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
-      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
-          <li>[Project] <a href="https://github.com/cogito30/js_clock2">Clock&&Timer(v2)</a></li>
-          <li>[Project] <a href="https://github.com/cogito30/js_stopwatch2">Stopwatch(v2)</a></li>
-          <li>[Project] <a href="https://github.com/cogito30/js_profile2">Profile(v2)</a></li>
-        </ul>
-      </details>
-      <details>
-        <summary>Cogito30's Blog(2025.02-2025.03)</summary>
-        <ul>
-          <li>Term: 2025.02.27-2025.03.03</li>
-          <li>Domain: Frontend</li>
-          <li>Member: 01</li>
-          <li>Detail</li>
-          <ul>
-            <li>UI Design with HTML, CSS</li>
-            <li>Page Link with JS</li>
-            <li>Markdown Parsing</li>
-          </ul>
-          <li>Skill</li>
-          <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
-      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
-          <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
-          <li>[GitHub] <a href="https://cogito30.github.io/">cogito30's Blog</a></li>
-        </ul>
-      </details>
-      <details>
-        <summary>Coding Test(2025.02-2025.02)</summary>
-        <ul>
-          <li>Term: 2025.02.03 - 2025.02.28</li>
-          <li>Domain: Algorithm</li>
-          <li>Member: 01</li>
-          <li>Detail</li>
-          <ul>
-            <li>Summary Algorithm</li>
-            <li>Solve Softeer(Lv1) Problems with Java</li>
-            <li>Solve Programmers(Lv1) Problems with Java</li>
-          </ul>
-          <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%28Java%29">Java Summary</a></li>
-          <li>[Blog] <a href="https://psychologyforpeople.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28Java%29">Problems</a></li>
-        </ul>
-      </details>
       <details>
         <summary>실시간 무인매장 이상행동 탐지(2024.02-2024.04)</summary>
         <ul>
@@ -342,22 +261,6 @@
       </details>
     </div>
   </article>
-
-<article id="life_cycle">
-    <h2 align="center">Life Cycle</h2>
-    <div>
-      <details>
-        <summary>2025: Web Develope</summary>
-        <ul>
-          <li>2025.01: </li>
-          <li>2025.02: Java Algorithm</li>
-          <li>2025.03: Frontend/Backend Study: HTML, CSS, JavaScript, React, Webpack, NodeJS, Express</li>
-          <li>2025.04: Algorithm(Python) / Frontend Project / 정보보안기사(필기)</li>
-        </ul>
-      </details>
-    </div>
-  </article>
-  
 </main>
 
 <footer>
