@@ -39,7 +39,8 @@
         <ul>
           <li>Term: 2013.03.04-2020.02.21</li>
           <li>Major: 전기정보공학과</li>
-          <li>GPA: 3.63/4.5</li>
+          <li>GPA(141): 3.63/4.5</li>
+          <li>Major GPA(87): 3.67/4.5</li>
           <li>Project: 양방향 뇌신경 신호처리 시스템</li>
         </ul>
       </details>
