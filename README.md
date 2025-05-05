@@ -166,25 +166,23 @@
     </div>
     <div>
       <h4>FrontEnd</h4>
-      <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
       <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=white">
     </div>
     <div>
       <h4>BackEnd</h4>
-      <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
-      <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
-      <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
-      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
+      <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
+<!--       <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white"> -->
     </div>
     <div>
       <h4>Data Analysis + AI</h4>
-      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -196,12 +194,6 @@
       <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
       <img alt="visual studio" src="https://img.shields.io/badge/visual%20studio-%23512BD4?style=flat-square" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
-    </div>
-    <div>
-      <h4>OS</h4>
-      <img alt="macos" src="https://img.shields.io/badge/macos-%236851FF?style=flat-square&logo=macos&logoColor=white" />
-      <img alt="windows" src="https://img.shields.io/badge/windows-%233B66BC?style=flat-square&logo=windows" />
-      <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     </div>
   </article>
 
