@@ -175,11 +175,10 @@
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
-      <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
+<!--       <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
       <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
-      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
-      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-      <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white"> -->
+      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
     </div>
@@ -188,12 +187,8 @@
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
-      <a href="https://seaborn.pydata.org/"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23008FC7?style=flat-square"></a>
-      <img alt="plotly" src="https://img.shields.io/badge/plotly-%233F4F75?style=flat-square&logo=plotly">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
-      <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </div>
     <div>
       <h4>Tool</h4>
@@ -201,7 +196,6 @@
       <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
       <img alt="visual studio" src="https://img.shields.io/badge/visual%20studio-%23512BD4?style=flat-square" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
-      <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
     </div>
     <div>
       <h4>OS</h4>
