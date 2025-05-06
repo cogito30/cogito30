@@ -22,8 +22,8 @@
 <div>
   <h2 align="center">2025 Object</h2>
   <ul>
-    <li>Week: Algorithm / Backend</li>
-    <li>Weekend: TOEIC Speaking(160+) / 정보보안기사</li>
+    <li>TOEIC Speaking(160+)</li>
+    <li>정보보안기사</li>
   </ul>
 </div>
 
