@@ -19,6 +19,16 @@
   </div>
 </nav>
 
+<div>
+  <h2 align="center">2025 Object</h2>
+  <ul>
+    <li>Algorithm(with Python)</li>
+    <li>Web Backend</li>
+    <li>TOEIC Speaking(160+)</li>
+    <li>정보보안기사</li>
+  </ul>
+</div>
+
 <main>
   <article>
     <h2 align="center" id="intro">Introduce</h2>
