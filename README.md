@@ -22,10 +22,8 @@
 <div>
   <h2 align="center">2025 Object</h2>
   <ul>
-    <li>Algorithm(with Python)</li>
-    <li>Web Backend</li>
-    <li>TOEIC Speaking(160+)</li>
-    <li>정보보안기사</li>
+    <li>Week: Algorithm(with Python) / Web Backend(Django/DFR/FastAPI)</li>
+    <li>Weekend: TOEIC Speaking(160+) / 정보보안기사</li>
   </ul>
 </div>
 
