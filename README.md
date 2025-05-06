@@ -12,8 +12,6 @@
   </p>
 </header>
 
-<br />
-
 <nav>
   <div align="center"\>
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
