@@ -88,7 +88,7 @@
         </ul>
       </details>
       <details>
-        <summary>인공지능사관학교(2020.05-2020.11)</summary>
+        <summary>인공지능사관학교(2020.05-2020.08)</summary>
         <ul>
           <li>Term:2020.05-2020.11</li>
           <li>Organizer: 멋쟁이사자처럼</li>
