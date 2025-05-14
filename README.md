@@ -58,7 +58,7 @@
     <h2 align="center">External Education</h2>
     <div>
       <details>
-        <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
+        <summary>Boostcamp AI Tech 6기(2023.11-2024.04)</summary>
         <ul>
           <li>Term: 2023.11.06-2024.04.02</li>
           <li>Organizer: Naver Connect</li>
@@ -74,7 +74,7 @@
         </ul>
       </details>
       <details>
-        <summary>42Seoul(2022.01-2023.11)</summary>
+        <summary>42Seoul 5기(2022.01-2023.11)</summary>
         <ul>
           <li>Term: 2022.01.31-2023.11.01</li>
           <li>Organizer: Innovation Academy</li>
@@ -88,7 +88,7 @@
         </ul>
       </details>
       <details>
-        <summary>인공지능사관학교(2020.05-2020.08)</summary>
+        <summary>인공지능사관학교 1기(2020.05-2020.08)</summary>
         <ul>
           <li>Term:2020.05-2020.11</li>
           <li>Organizer: 멋쟁이사자처럼</li>
