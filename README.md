@@ -127,6 +127,23 @@
     <h2 align="center">Projects</h2>
     <div>
       <details>
+        <summary>project00(2025.05-)</summary>
+        <ul>
+          <li>Term: 2025.05.20 - </li>
+          <li>Domain: Web</li>
+          <li>Member: 01</li>
+          <li>Detail</li>
+          <ul>
+            <li>기획 및 설계</li>
+            <li>웹 디자인 및 퍼블리싱</li>
+            <li>FrontEnd 개발</li>
+            <li>BackEnd 개발</li>
+            <li>테스트 및 버그 수정</li>
+          </ul>
+          <li>[Project] <a href="https://github.com/cogito30/project00_study_site">(임시)project00</a></li>
+        </ul>
+      </details>
+      <details>
         <summary>실시간 무인매장 이상행동 탐지(2024.02-2024.04)</summary>
         <ul>
           <li>Term: 2024.02.12 - 2025.04.01</li>
