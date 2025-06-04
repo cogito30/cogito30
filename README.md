@@ -22,9 +22,10 @@
 <div>
   <h2 align="center">2025 Object</h2>
   <ul>
-    <li>정보보안기사</li>
+    <li>FullStack Develope</li>
+    <li>TOEIC(800+)</li>
     <li>TOEIC Speaking(160+)</li>
-    <li>solved.ac(class1-class5)</li>
+    <li>solved.ac(class1-class5) with C++</li>
   </ul>
 </div>
 
