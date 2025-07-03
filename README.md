@@ -22,7 +22,7 @@
 <div>
   <h2 align="center">2025 Object</h2>
   <ul>
-    <li>FullStack Develope</li>
+    <li>FullStack Developer(Java/Spring + JavaScript/React)</li>
     <li>TOEIC(800+)</li>
     <li>TOEIC Speaking(160+)</li>
     <li>solved.ac(class1-class5) with C++</li>
