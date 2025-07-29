@@ -23,7 +23,7 @@
     <li>TOEIC(800+)</li>
     <li>TOEIC Speaking(160+)</li>
     <li>정보보안기사</li>
-    <li>solved.ac(class1-class5) with C++</li>
+    <li>solved.ac(class1-class5) with C++, Java</li>
   </ul>
 </div>
 
