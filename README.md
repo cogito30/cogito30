@@ -54,6 +54,19 @@
     <h2 align="center">External Education</h2>
     <div>
       <details>
+        <summary>Inflearn(2025.08-)</summary>
+        <ul>
+          <li>Term: 2025.08.01-</li>
+          <li>Detail </li>
+          <ul>
+            <li>[스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)</li>
+            <li>[스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술]()</li>
+            
+          </ul>
+          <li>[Project] 무인매장 이상행동 탐지</li>
+        </ul>
+      </details>
+      <details>
         <summary>Boostcamp AI Tech 6기(2023.11-2024.04)</summary>
         <ul>
           <li>Term: 2023.11.06-2024.04.02</li>
