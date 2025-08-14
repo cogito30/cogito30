@@ -31,7 +31,7 @@
     <div>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <strong>Job</strong>: <code>Web Develope</code>, <code>Embedded</code>, <code>Computer Vision</code></p>
-      <p>I'm currently interested in <strong>Industry</strong>: <code>System Integration</code>, <code>Intelligent Communications</code>, <code>autonomous driving</code></p>
+      <p>I'm currently interested in <strong>Industry</strong>: <code>System Integration</code>, <code>Smart Factory</code>, <code>Autonomous Driving</code></p>
   </article>
 
   <article id="education">
