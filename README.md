@@ -59,8 +59,12 @@
           <li>Term: 2025.08.01-</li>
           <li>Detail </li>
           <ul>
-            <li>[스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)</li>
-            <li>[스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)</li>
+            <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
+            <li>스프링 핵심 원리 - 기본편</li>
+            <li>[임베디드 입문용] 임베디드 개발은 실제로 이렇게 해요</li>
+            <li>제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기</li>
+            <li>회로설계 입문자를 위한 디지털, 아날로그 설계와 실무 Project</li>
+            <li></li>
           </ul>
           <li>[Project] 무인매장 이상행동 탐지</li>
         </ul>
