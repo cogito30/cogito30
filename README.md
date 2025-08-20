@@ -1,17 +1,15 @@
 <header>
   <h1 align="center">cogito30</h1>
-  <div align="center">
-  <a href="https://cogito30.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-%236ccad0"></a>
-  <a href="https://github.com/cogito30?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-gray?logo=github"></a>
-  <a href="https://psychologyforpeople.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF4500?logo=tistory&link=https%3A%2F%2Fpsychologyforpeople.tistory.com%2F"></a>
-</header>
-
-<nav>
   <div align="center"\>
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
     <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#certificate">Certificate</a> | <a href="#skills">Skills</a>
   </div>
-</nav>
+  <div align="center">
+    <a href="https://cogito30.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-%236ccad0"></a>
+    <a href="https://github.com/cogito30?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/cogito30-gray?logo=github"></a>
+    <a href="https://psychologyforpeople.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF4500?logo=tistory&link=https%3A%2F%2Fpsychologyforpeople.tistory.com%2F"></a>
+  </div>
+</header>
 
 <main>
   <article id="intro">
