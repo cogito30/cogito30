@@ -161,7 +161,7 @@
         <li>PCCP(Python): Lv3(2024.11.09)</li>
         <li>TOEIC Speaking:IH(2024.07.28)</li>
         <li>SQLD(2022.09.30)</li>
-        <li>1종보통운전면허(20</li>
+        <li>1종보통운전면허(2013.03)</li>
       </ul>
     </div>
     <div>
