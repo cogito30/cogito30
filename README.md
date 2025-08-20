@@ -169,7 +169,7 @@
         <summary>Language</summary>
           <ul>
             <li>TOEIC Spearking(IH): 140점(2024.07.28)</li>
-            <li>TOEIC Spearking(IH): 140점(2024.07.28)</li>
+            <li>TOEIC Spearking(IM3): 130점(2025.08.03)</li>
           </ul>
         </details>
     </div>
