@@ -14,7 +14,7 @@
 
 <main>
   <article id="intro">
-    <h2 align="center">Introduce</h2>
+    <h2>Introduce</h2>
     <div>
       <p>시스템 설계를 위해 웹과 임베디드를 활용하는 소프트웨어 엔지니어입니다.</p>
       <p>기술을 통해 사회를 발전시키는 방법을 항상 고민하며 인간의 삶의 질을 향상시키는 엔지니어가 되는 것이 목표입니다.</p>
@@ -22,7 +22,7 @@
   </article>
 
   <article id="education">
-    <h2 align="center">Education</h2>
+    <h2>Education</h2>
     <div>
       <details>
         <summary>서울과학기술대학교(2013.03-2020.02)</summary>
@@ -38,7 +38,7 @@
   </article>
   
   <article id="external_education">
-    <h2 align="center">External Education</h2>
+    <h2>External Education</h2>
     <div>
       <details>
         <summary>Boostcamp AI Tech(2023.11-2024.04)</summary>
@@ -87,7 +87,7 @@
   </article>
 
   <article id="experience">
-    <h2 align="center">Experience</h2>
+    <h2>Experience</h2>
     <div>
       <details>
         <summary>삼진엘앤디(2019.06-2019.10)</summary>
@@ -107,7 +107,7 @@
   </article>
   
   <article id="projects">
-    <h2 align="center">Projects</h2>
+    <h2>Projects</h2>
     <div>
       <details>
         <summary>실시간 무인매장 이상행동 탐지(2024.02-2024.04)</summary>
@@ -143,12 +143,8 @@
     </div>
   </article>
 
-
-  
-  
-
   <article id="certificate">
-    <h2 align="center">Certificate</h2>
+    <h2>Certificate</h2>
     <div>
       <h4>Summary</h4>
       <ul>
@@ -200,7 +196,7 @@
   </article>
 
 <article id="skills">
-    <h2 align="center">Skills</h2> 
+    <h2>Skills</h2> 
     <div>
       <h4>Programming Langauge</h4>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
@@ -246,7 +242,7 @@
 <footer>
     <article>
     <h2>GitHub Stats</h2>
-    <div style="display: flex; height:180px;">
+    <div style="display: flex; height:180px;" align="center">
       <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito30&show_icons=true&theme=transparent" alt="cogito30's github stats" />
       <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito30&layout=compact&theme=nord&hide_border=true" alt="cogito30's github stats" />
     </div>
