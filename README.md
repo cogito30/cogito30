@@ -48,10 +48,9 @@
           <li>Domain: Computer Vision</li>
           <li>Detail </li>
           <ul>
-            <li>Subject: AI Basic, AI Model(Computer Vision)</li>
-            <li>Language: Python</li>
-            <li>Framework: Numpy, Pandas, Matplotlib, PyTorch, MMDetection, FastAPI</li>
-            <li>Tools: VSCode</li>
+            <li>AI 기본 이론 및 Computer Vision 심화 과정 이수(Python, PyTorch)</li>
+            <li>PyTorch를 활용하여 CV 모델을 개발(MMDet, Detectron2) </li>
+            <li>FastAPI를 활용히여 동영상에서 Object Detection 처리</li>
           </ul>
           <li>[Project] 무인매장 이상행동 탐지</li>
         </ul>
@@ -64,9 +63,9 @@
           <li>Domain: Computer Science</li>
           <li>Detail</li>
           <ul>
-            <li>Subject: Programming Language, Algorithm, Network, Operating System, Graphics, Linux, Git, Docker
-            <li>Language: C, C++</li>
-            <li>Tools: Vim, GCC, Make, CMake, Git</li>
+            <li>컴퓨터공학 관련 과제를 통한 SW 이론 학습 및 실습(C/C++/GCC/Make/Git)</li>
+            <li>Ray Tracing 이론 학습 및 구현</li>
+            <li>Docker 및 Network 동작 과정 학습</li>
           </ul>
         </ul>
       </details>
@@ -78,8 +77,8 @@
           <li>Domain: AI</li>
           <li>Detail</li>
           <ul>
-            <li>Subject: AI, DataAnalysis</li>
-            <li>Language: Python</li>
+            <li>데이터 분석 및 AI 프레임워크 과정 이수(Python, Scikit-Learn, Tensorflow)</li>
+            <li>Python과 Matplotlib, Pandas를 활용한 데이터분석 프로젝트 진행</li>
           </ul>
         </ul>
       </details>
@@ -96,8 +95,9 @@
           <li>Domain: AI(Computer Vision)</li>
           <ii>Detail</ii>
           <ul>
-            <li>AI Model 학습을 위한 TV 패널 불량 데이터 제작</li>
-            <li>AI Model Test on Nvidia Jetson Xavier</li>
+            <li>AI Model 학습을 위한 TV 패널 불량 데이터 제작(이미지 제작, 라벨링)</li>
+            <li>영유아 위험 감지 모델 개발(Tensorflow, FaceDetection)</li>
+            <li>AI Model 동작 테스트(Tensorflow, Nvidia Xavier)</li>
           </ul>
           <li>[Project]: <a hred="#">#</a></li>
         </ul>
