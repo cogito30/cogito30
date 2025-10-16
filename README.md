@@ -142,7 +142,7 @@
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
     </div>
     <div>
-      <h4>Data Analysis/AI</h4>
+      <h4>Data Analysis + AI</h4>
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
