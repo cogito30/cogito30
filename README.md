@@ -125,31 +125,31 @@
 <article id="skills">
     <h2>Skills</h2> 
     <div>
-      Programming Langauge: 
+      <h4>Programming Langauge</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
     </div>
     <div>
-      FrontEnd: 
+      <h4>FrontEnd</h4>
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
       <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=white">
     </div>
     <div>
-      BackEnd: 
+      <h4>BackEnd</h4>
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
     </div>
     <div>
-      Data Analysis/AI: 
+      <h4>Data Analysis/AI</h4>
       <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas">
       <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%232F93E0?style=flat-square">
       <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
     </div>
     <div>
-      Tool: 
+      <h4>Tool</h4>h4> 
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
       <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
       <img alt="visual studio" src="https://img.shields.io/badge/visual%20studio-%23512BD4?style=flat-square" />
