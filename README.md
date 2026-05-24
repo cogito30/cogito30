@@ -20,9 +20,12 @@
       <p>일상에서의 불편함을 발견하고 개선하기 위해 고민하는 것을 좋아합니다.</p>
       <p>관심사: 웹/정보통신/임베디드 </p>
     </div>
-      <ul>
-        <li>1</li>
-      </ul>
+    <h2>Object</h2>
+    <ul>
+      <li>1</li>
+      <li>1</li>
+      <li>1</li>
+    </ul>
   </article>
 
   <article id="education">
