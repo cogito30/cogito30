@@ -34,6 +34,8 @@
     </ul>
   </article>
 
+  <h2>Introduce</h2>
+
   <article id="education">
     <h2>Education</h2>
     <div>
