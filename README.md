@@ -14,7 +14,7 @@
 
 <main>
   <article id="object">
-    <h2>20226 Object</h2>
+    <h2>2026 Object</h2>
     <ul>
       <li>정보보안기사</li>
       <li>TOEIC Speaking(140+)</li>
