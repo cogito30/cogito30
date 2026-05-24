@@ -13,6 +13,15 @@
 </header>
 
 <main>
+  <article id="object">
+    <h2>20226 Object</h2>
+    <ul>
+      <li>정보보안기사</li>
+      <li>TOEIC Speaking(140+)</li>
+      <li>OPIC(IH)</li>
+    </ul>
+  </article>
+  
   <article id="intro">
     <h2>Introduce</h2>
     <div>
@@ -20,15 +29,6 @@
       <p>일상에서의 불편함을 발견하고 개선하기 위해 고민하는 것을 좋아합니다.</p>
       <p>관심사: 웹/정보통신/임베디드 </p>
     </div>
-  </article>
-  
-  <article id="object">
-    <h2>Object</h2>
-    <ul>
-      <li>정보보안기사</li>
-      <li>TOEIC Speaking(140+)</li>
-      <li>OPIC(IH)</li>
-    </ul>
   </article>
 
   <article id="education">
