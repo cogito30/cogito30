@@ -15,16 +15,10 @@
 <main>
   <article id="intro">
     <h2>Introduce</h2>
- 
-      
     <ul>
-      <li>정보보안기사</li>
-      <li>토익스피킹(IH)</li>
-      <li>OPIC(IH)</li>
+      <li>1</li>
     </ul>
   </article>
-
-  <h2>Introduce</h2>
 
   <article id="education">
     <h2>Education</h2>
