@@ -17,7 +17,7 @@
     <h2>2026 Object</h2>
     <ul>
       <li>정보보안기사</li>
-      <li>TOEIC Speaking(140+)</li>
+      <li>TOEIC Speaking(150+)</li>
       <li>OPIC(IH)</li>
     </ul>
   </article>
