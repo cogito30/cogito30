@@ -117,8 +117,8 @@
     <div>
       <h2>어학</h2>
       <ul>
-        <li>TOEIC: 730(2026.01.11)</li>
-        <li>TOEIC Speaking: 140(2024.07.28)</li>
+        <li>TOEIC: 730(2026.01.11)</li>        
+        <li>TOEIC Speaking: 130(2025.08.03)</li>
       </ul>
       <h2>국가기술</h2>
       <ul>
